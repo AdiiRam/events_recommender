@@ -1,0 +1,791 @@
+event_edition_id,event_name,event_category,registration_type,start_date,end_date,venue,city,event_tags
+8370,ITM Guwahati,Entertainment,Free,0000-00-00 00:00:00,0000-00-00 00:00:00,,,
+8426,Jujubee,Entertainment,Free,2013-05-24 00:00:00,2013-05-26 00:00:00,"Ramagondanahalli, Varthur Road, Bangalore, 560066",,
+8468,new demo event,Entertainment,Paid,2013-06-04 00:00:00,2013-06-04 00:00:00,Chennai,,
+8498,Between The Lines,Entertainment,Free,2013-06-22 00:00:00,2013-06-22 00:00:00,"Westin Hotel: Hyderabad Ballroom, Westin Hotel, Madhapur, Hyderabad, Hyderabad, 500081",Hyderabad,
+8617,"Yudh - Three perspectives, One Truth",Entertainment,Free,2013-07-06 00:00:00,2013-07-06 00:00:00,"JM Road , Deccan Gymkhana, Pune",Pune,
+8629,Swarathma - Live in Concert,Entertainment,Free,2013-07-18 00:00:00,2013-07-18 00:00:00,"Hard Rock Cafe, 40, St Mark's Rd, Bangalore,",Bengaluru,
+8701,"Pharmacognosy, Phytochemistry & Natural Products",Conferences,Free,2013-10-21 00:00:00,2013-10-23 00:00:00,"Radisson Blu Plaza Hotel, Plot No. 8-2-409, Road No. 06, Banjara Hills, Hyderabad",Hyderabad,Conferences & Exhibitions
+8722,Wax Display,Entertainment,Free,2013-01-01 00:00:00,2013-07-31 00:00:00,"Wax Museum, Versoli, Old Bombay Pune Highway, Lonavala, Pune",Pune,
+8812,Food & Beverage Process Tech Fair 2013,Conferences,Free,2013-11-15 00:00:00,2013-11-17 00:00:00,"Hyderabad International Trade Expositions Limited (HITEX), HITEX Fair Grounds, Izzat Nagar, Madhapur, Hyderabad",Hyderabad,Conferences & Exhibitions
+8828,Bollywood Kee Maa,Entertainment,Paid,2013-08-25 00:00:00,2013-08-25 00:00:00,Multiple Venues,Chennai,
+8838,My Name is CINE-MAA,Entertainment,Paid,2013-07-27 00:00:00,2013-07-27 00:00:00,"Auditorium,Singapore",Singapore,
+8853,Thermal and Quarter Live,Entertainment,Free,2013-07-19 00:00:00,2013-07-21 00:00:00,"BFlat and HighNote Bar and Dining #776, 100 Feet Road, HAL 2nd Stage, Above ING Bank , Bangalore",Bengaluru,
+8858,Down the Memory lane - Painting Exhibition,Entertainment,Free,2013-07-17 00:00:00,2013-08-16 00:00:00,"The Studio 26/2, Between 1st and 2nd cross, D'Costa Layout, Cooketown, Bangalore",Bengaluru,
+8868,Bollywood Kee Maa,Entertainment,Paid,2013-08-03 00:00:00,2013-08-11 00:00:00,Multiple Venues ,Chennai,
+8877,Lagna Pahave Karun,Entertainment,Paid,2013-11-17 00:00:00,2013-11-17 00:00:00,"Screening: G V Marina Square, 5a Raffles Ave #03-01 Singapore 039801",Singapore,Movies
+8895,Green Room Project - Bangalore 2013,Entertainment,Paid,2013-07-27 00:00:00,2013-07-28 00:00:00,"Alliance Francaise Opp: U.N.I Building, P.B 108, Thimmaiah Road, Millers Road, Bangalore-560052",Bengaluru,
+8967,Recluse of History,Entertainment,Free,2013-07-27 00:00:00,2013-08-31 00:00:00,"Gallery Art & Soul 1, Madhuli, Shivsagar Estate, Worli , Mumbai\t",Mumbai,
+8995,Serve N Protect,Conferences,Free,2013-08-25 00:00:00,2013-12-29 00:00:00,"Linger On Cafe, Shop No. 2, Ground Floor, Mont Vert Zenith Building, Baner Road, Pune, 411045",Pune,Conferences & Exhibitions
+9019,The Madras Players' Serious Men,Entertainment,Paid,2013-09-27 00:00:00,2013-09-29 00:00:00,"Museum Theatre, Egmore, Chennai",Chennai,
+9030,Bollywood KEE MAA by evam,Entertainment,Paid,2013-10-27 00:00:00,2013-10-27 00:00:00,Chinmaya Heritage Center - Harrington road,Chennai,Variety
+9099,Lakshya Arts' POI-MEI A Family Drama,Entertainment,Paid,2013-12-29 00:00:00,2013-12-29 00:00:00,Chowdiah Memorial Hall A/c,Bengaluru,Theatre
+9110,Farhan Akhtar Live Chennai,Entertainment,Paid,2013-12-14 00:00:00,2013-12-14 00:00:00,"Wesley Ground, Royapettah",Chennai,Music and Dance
+9118,Md.Rafi - Kishore Kumar Golden Nite,Entertainment,Paid,2013-12-22 00:00:00,2013-12-22 00:00:00,"Kalai Arangam A/c, R.S.Puram",Coimbatore,Music and Dance
+9129,Pink - A Floydian Trip - A Rock Opera,Entertainment,Paid,2013-11-30 00:00:00,2013-11-30 00:00:00,Sir Mutha Venkatasubba Rao Concert Hall,Chennai,Music and Dance
+9132,Family Business Conference Fourth,Conferences,Paid,2013-11-23 00:00:00,2013-11-23 00:00:00,"Hotel Taj Club House,",Chennai,Conferences & Exhibitions
+9139,Yo Yo Honey Singh Live,Entertainment,Paid,2013-11-29 00:00:00,2013-11-29 00:00:00,"YMCA Grounds, Royapettah",Chennai,Music and Dance
+9159,John Foppe Live in India,Conferences,Paid,2013-12-19 00:00:00,2013-12-19 00:00:00,Hotel Leela Palace ,Chennai,Conferences & Exhibitions
+9183,Shreya Ghoshal Live in Concert,Entertainment,Paid,2013-12-22 00:00:00,2013-12-22 00:00:00,Sir Mutha Venkata Subba Rao Concert Hall,Chennai,Music and Dance
+9214,Fantasia 2014 - A Mega Grand New Year Rock Nite,Entertainment,Paid,2013-12-31 00:00:00,2013-12-31 00:00:00,VGP Aqua Kingdom,Chennai,Variety
+9223,Yoga Workshop with Payal Gidwani,Conferences,Paid,2014-01-13 00:00:00,2014-01-13 00:00:00,Leela Palace,Chennai,Learning & Workshops
+9229,Holovisual Night - Savera Hotel,Entertainment,Paid,2013-12-31 00:00:00,2013-12-31 00:00:00,Hotel Savera,Chennai,Variety
+9231,Dr.Prabhakaran Talk show for Business People,Entertainment,Paid,2014-01-26 00:00:00,2014-01-26 00:00:00,Thyagaraya Hall A/C,Chennai,Talk Shows
+9236,Ye Shaam Mastani,Entertainment,Paid,2014-01-24 00:00:00,2014-01-24 00:00:00,Shree Baldevdas Kikani High School,Coimbatore,Music and Dance
+9241,World Congress on Disaster Management,Conferences,Free,2014-02-13 00:00:00,2014-02-16 00:00:00,National Academy of Construction (NAC) Campus,Hyderabad,Conferences & Exhibitions
+9261,Delicious Dim Sum Lunch,Entertainment,Paid,2013-12-31 00:00:00,2013-12-31 00:00:00, Kalyani Nagar,Pune,Talk Shows
+9262,SMSTEST,Sports,Paid,1970-01-01 19:00:00,1970-01-01 00:00:00,Chennai,Singapore,Sports Other
+9264,Board Walkers Present Biloxi Blues,Entertainment,Paid,2014-01-11 00:00:00,2014-01-12 00:00:00,Museum Theatre,Chennai,Theatre
+9265,"evam's Ali J, a Political Thriller - Bengaluru",Entertainment,Paid,2014-01-31 00:00:00,2014-02-01 00:00:00,Rangashankara,Bengaluru,Theatre
+9266,evam's Bane - Bengaluru,Entertainment,Paid,2014-02-01 00:00:00,2014-02-02 00:00:00,Rangashankara,Bengaluru,Theatre
+9274,Timepass (TP) Marathi Movie,Entertainment,Paid,2014-01-25 00:00:00,2014-01-25 00:00:00,GV GRAND HALL 6,Singapore,Movies
+9279,MY Theatre Festival opener - Two Timing,Entertainment,Paid,2014-01-25 00:00:00,2014-01-25 00:00:00,The Music Academy Mini Hall,Chennai,Theatre
+9287,9 Gems - The Legend of Chanakya,Entertainment,Paid,2014-02-16 00:00:00,2014-02-16 00:00:00,Raffles Jubilee Hall ,Singapore,Theatre
+9311,Chennai Women's International Film Festival,Entertainment,Paid,2014-05-20 00:00:00,2014-05-25 00:00:00,To be Announced,Chennai,Movies
+9316,evam's Bane - Chennai,Entertainment,Paid,2014-02-11 00:00:00,2014-02-11 00:00:00,Savera Hotel,Chennai,Theatre
+9324,Hazir-2 - Ustad Zakir Hussain and Hariharan Live in Concert,Entertainment,Paid,2014-02-17 00:00:00,2014-02-17 00:00:00,Music Academy,Chennai,Music and Dance
+9326,Sean Smith Just Jump Seminar,Conferences,Paid,2014-02-27 00:00:00,2014-02-27 00:00:00,Sir Mutha Venkatasubba Rao Concert Hall,Chennai,Learning & Workshops
+9337,Leap into Love,Entertainment,Paid,2014-02-23 00:00:00,2014-02-23 00:00:00,Museum Theatre,Chennai,Theatre
+9340,MY Theatre Festival - Season Tickets,Entertainment,Paid,2014-02-07 19:00:00,2014-02-09 00:00:00,Museum Theatre ,Chennai,Theatre
+9361,Madras Players Present Kamala,Entertainment,Paid,2014-02-28 00:00:00,2014-03-02 00:00:00,Museum Theatre,Chennai,Theatre
+9379,Astad Deboo's  Interpreting Tagore,Entertainment,Paid,2014-02-19 00:00:00,2014-02-19 00:00:00,Music Academy,Chennai,Music and Dance
+9403,"Black Comedy, a Peter Shaffer Play",Entertainment,Paid,2014-03-21 00:00:00,2014-03-21 00:00:00,Sir Mutha Venkatasubba Rao Concert Hall (Lady Andal Auditorium) ,Chennai,Theatre
+9408,Aikya 2014,Entertainment,Paid,2014-03-28 00:00:00,2014-03-28 00:00:00,Music Academy,Chennai,Music and Dance
+9412,Mime Theatre Festival 2014,Entertainment,Paid,2014-03-21 00:00:00,2014-03-23 00:00:00,Narada Gana Sabha,Chennai,Theatre
+9414,Hemalkasa,Entertainment,Free,2014-03-30 00:00:00,2014-03-30 00:00:00,Golden Village,Singapore,Movies
+9420,Paadu Nilaave - SPB Live in Concert,Entertainment,Paid,2014-04-12 00:00:00,2014-04-12 00:00:00,Music Academy,Chennai,Music and Dance
+9426,Yaavarkumaam Oru Kaadal,Entertainment,Paid,2014-03-23 00:00:00,2014-03-23 00:00:00,Vani Mahal (Main Hall),Chennai,Theatre
+9429,Dhana Test Event ,Entertainment,Paid,2014-03-30 00:00:00,2014-03-30 00:00:00,Test Place,Chennai,Movies
+9433,Malaysian Grand Prix,Sports,Paid,2014-03-28 00:00:00,2014-03-31 00:00:00,"Sepang Circuit, ",Malaysia,Sports Other
+9435,World Theatre Day 2014,Entertainment,Paid,2014-03-30 00:00:00,2014-03-30 00:00:00,Edouard Michelin Auditorium,Chennai,Theatre
+9448,Maithree Musical Nite 2014,Entertainment,Paid,2014-04-12 00:00:00,2014-04-12 00:00:00,Nehru Indoor Stadium,Chennai,Music and Dance
+9452,Grand Classical Concert by Dr.M.Balamuralikrishna,Entertainment,Paid,2014-05-11 00:00:00,2014-05-11 00:00:00,Chowdiah Memorial Hall,Bengaluru,Music and Dance
+9461,Avayava - 2014,Entertainment,Paid,2014-04-10 00:00:00,2014-04-13 00:00:00,Amanora Town Center,Pune,Music and Dance
+9478,Premium Event,Entertainment,Paid,2014-04-15 00:00:00,2014-04-15 00:00:00,Testing place,Chennai,Theatre
+9484,P C Sorcar Magic Show - Third Week End 3rd - 4th May,Entertainment,Paid,2014-05-03 00:00:00,2014-05-04 00:00:00,Rama Rao Auditorium,Chennai,Variety
+9501,Konjam Yosinga Boss,Entertainment,Paid,2014-04-13 00:00:00,2014-04-13 00:00:00,Kamarajar Arangam,Chennai,Theatre
+9508,Pete Malicki's Extraordinary Unusual,Entertainment,Paid,2014-04-27 00:00:00,2014-04-27 00:00:00,Rangasthala,Bengaluru,Theatre
+9517,DB Converge 2014,Conferences,Paid,2014-07-26 00:00:00,2014-07-27 00:00:00,Across,Chennai,Conferences & Exhibitions
+9522,Kalki's Ponniyin Selvan - June 8 - Sunday,Entertainment,Paid,2014-06-08 00:00:00,2014-06-08 00:00:00,Music Academy,Chennai,Theatre
+9523,Kalki's Ponniyin Selvan - June 14 - Saturday,Entertainment,Paid,2014-06-14 00:00:00,2014-06-14 00:00:00,Music Academy,Chennai,Theatre
+9524,Kalki's Ponniyin Selvan - June 9 - Monday,Entertainment,Paid,2014-06-09 00:00:00,2014-06-09 00:00:00,Music Academy,Chennai,Theatre
+9527,Kalki's Ponniyin Selvan - June 11 - Wednesday,Entertainment,Paid,2014-06-11 00:00:00,2014-06-11 00:00:00,Music Academy,Chennai,Theatre
+9528,Kalki's Ponniyin Selvan - June 12 - Thursday,Entertainment,Paid,2014-06-12 00:00:00,2014-06-12 00:00:00,Music Academy,Chennai,Theatre
+9529,Kalki's Ponniyin Selvan - June 13 - Friday,Entertainment,Paid,2014-06-13 00:00:00,2014-06-13 00:00:00,Music Academy,Chennai,Theatre
+9533,Oh Crazy Minnal – Andrea Live in Concert,Entertainment,Paid,2014-05-23 00:00:00,2014-05-23 00:00:00,Music Academy,Chennai,Music and Dance
+9545,Gaata Rahe Mera Dil- Kavita Krishnamurti Live,Entertainment,Paid,2014-06-28 00:00:00,2014-06-28 00:00:00,Kamarajar Arangam,Chennai,Music and Dance
+9559,Mystique of Prem Joshua & Band Live,Entertainment,Paid,2014-06-19 00:00:00,2014-06-19 00:00:00,Hotel Savera,Chennai,Music and Dance
+9560,KK Live in Concert,Entertainment,Paid,2014-06-08 00:00:00,2014-06-08 00:00:00,Sir Mutha Venkatasubba Rao Concert Hall,Chennai,Music and Dance
+9562,Extra Terrestrials - Coimbatore Jun 15,Entertainment,Paid,2014-06-15 00:00:00,2014-06-15 00:00:00,Codissia,Coimbatore,Variety
+9571,Ponniyin Selvan - June 28 - Madurai,Entertainment,Paid,2014-06-28 00:00:00,2014-06-28 00:00:00,Lakshmi Sundaram Hall,Madurai,Theatre
+9573,Ponniyin Selvan - July 5 - Coimbatore,Entertainment,Paid,2014-07-05 00:00:00,2014-07-05 00:00:00,R.S. Puram Kalaiarangam,Coimbatore,Theatre
+9574,Ponniyin Selvan - Jul 6 - Kovai,Entertainment,Paid,2014-07-06 00:00:00,2014-07-06 00:00:00,RS Puram Kalai arangam,Coimbatore,Theatre
+9588,First Rush - Theatre workshop - Chennai,Conferences,Paid,2014-07-05 00:00:00,2014-07-06 00:00:00,Na,Chennai,Learning & Workshops
+9601,Viralimalai Kuravanji,Entertainment,Paid,2014-07-13 00:00:00,2014-07-13 00:00:00,Narada Gana Sabha,Chennai,Music and Dance
+9608,Indian Hip hop Fest,Entertainment,Paid,2014-07-19 00:00:00,2014-07-20 00:00:00,Max Mueller Bhavan ,Chennai,Music and Dance
+9611,Short and Sweet 2014 - Wild Card II,Entertainment,Paid,2014-07-06 00:00:00,2014-07-06 00:00:00,Alliance Francaise of Madras,Chennai,Theatre
+9612,Short and Sweet 2014 - Week I,Entertainment,Paid,2014-07-10 00:00:00,2014-07-13 00:00:00,Alliance Francaise of Madras,Chennai,Theatre
+9614,Short and Sweet 2014 - Week III,Entertainment,Paid,2014-07-23 00:00:00,2014-07-26 00:00:00,Alliance Francaise of Madras,Chennai,Theatre
+9619,MADHU +2 EMPEROR CRAZY MOHAN & MADHU BALAJI'S COMEDY PLAY,Entertainment,Paid,2014-07-13 00:00:00,2014-07-13 00:00:00,P.T.THYAGARAYA HALL deluxe A\\c,Chennai,Theatre
+9653,NLP Practitioner Program – Introductory session,Conferences,Paid,2014-07-20 00:00:00,2014-08-03 00:00:00,Russian Cultural Centre,Chennai,Learning & Workshops
+9695,Macbeth - Chennai - 15thAug,Entertainment,Paid,2014-08-15 00:00:00,2014-08-15 00:00:00,Sir Mutha Venkata Subbarao Concert Hall,Chennai,Theatre
+9697,Beyond Binary - Chennai - 17thAug,Entertainment,Paid,2014-08-17 00:00:00,2014-08-17 00:00:00,Sir Mutha Venkata Subbarao Concert Hall,Chennai,Theatre
+9698,Boiled Beans on Toast - Chennai - 22Aug,Entertainment,Paid,2014-08-22 00:00:00,2014-08-22 00:00:00,Sir Mutha Venkata Subbarao Concert Hall,Chennai,Theatre
+9699,Colour Blind - Chennai - 23Aug,Entertainment,Paid,2014-08-23 00:00:00,2014-08-23 00:00:00,Sir Mutha Venkata Subbarao Concert Hall,Chennai,Theatre
+9702,Colour Blind - Bangalore - 16thAug,Entertainment,Paid,2014-08-16 00:00:00,2014-08-16 00:00:00,Chowdiah Memorial Hall,Bengaluru,Theatre
+9737,Chockolate Krishna,Entertainment,Paid,2014-08-31 00:00:00,2014-08-31 00:00:00,PT THYAGARAYA HALL A/C,Chennai,Comedy
+9746,go - madras VI,Entertainment,Paid,2014-09-20 00:00:00,2014-09-21 00:00:00,Radisson Blu Temple Bay Resorts,Chennai,Music and Dance
+9747,"Mystique 7, in Saptapadi, Seven Steps To Divine Musical Union",Entertainment,Paid,2014-10-05 00:00:00,2014-10-05 00:00:00,Victoria Theatre,Singapore,Music and Dance
+9753,FOUR ROOMS – A COMEDY  ,Entertainment,Paid,2014-09-06 00:00:00,2014-09-07 00:00:00,MUSEUM THEATRE ,Chennai,Comedy
+9775,Live in Concert by Dr. Nithyashree Mahadevan in aid of Sevalaya,Entertainment,Paid,2014-09-06 00:00:00,2014-09-06 00:00:00,Bharatiya Vidya Bhavan,Chennai,Music and Dance
+9803,“Life Made Easy” presents SMS – “SUCCESS MADE SIMPLE”  ,Conferences,Paid,2014-09-20 00:00:00,2014-09-20 00:00:00,Advertising Club Madras,Chennai,Learning & Workshops
+9815,JAZZ CONCERT: Anne Paceo Yôkaï,Entertainment,Free,2014-09-19 00:00:00,2014-09-19 00:00:00,Alliance Française de ,Bengaluru,Theatre
+9828,SHREYA GHOSHAL\t- HINDI FILM HITS,Entertainment,Paid,2014-10-10 00:00:00,2014-10-10 00:00:00,Music academy,Chennai,Music and Dance
+9829,SHOBANA - DANCING DRUMS,Entertainment,Paid,2014-10-11 00:00:00,2014-10-11 00:00:00,Music academy,Chennai,Music and Dance
+9830,HARISH - AGAM,Entertainment,Paid,2014-10-12 00:00:00,2014-10-12 00:00:00,Music academy,Chennai,Music and Dance
+9832,Ms. Meena,Entertainment,Paid,2014-09-20 00:00:00,2014-09-21 00:00:00,Auditorium Edouard Michelin,Chennai,Theatre
+9844,Chitra Mano Live,Entertainment,Paid,2014-10-10 00:00:00,2014-10-10 00:00:00,Kamarajar Arangam,Chennai,Music and Dance
+9863,Mardi Gras-2014,Entertainment,Paid,2014-09-21 00:00:00,2014-09-21 00:00:00,OAT,Chennai,Music and Dance
+9864,Fusion Music by The Elements,Entertainment,Paid,2014-09-26 00:00:00,2014-09-26 00:00:00,Music Academy,Chennai,Music and Dance
+9865,Divine Music by Smt.Shanmugapriya / Smt. Haripriya,Entertainment,Paid,2014-09-27 00:00:00,2014-09-27 00:00:00,Music Academy,Chennai,Music and Dance
+9875,Benny Dayal Live in Concert,Entertainment,Paid,2014-10-04 00:00:00,2014-10-04 00:00:00,Sir Mutha Venkatasubba Rao Concert Hall,Chennai,Music and Dance
+9880,Bake-a-Difference,Entertainment,Paid,2014-10-11 00:00:00,2014-10-11 00:00:00,"Luz House, 127",Chennai,Variety
+9882,Krsna,Entertainment,Paid,2014-11-23 00:00:00,2014-11-23 00:00:00,Smt. SivagamiPethachi Auditorium,Chennai,Music and Dance
+9884,Dr.S.P.B Present Naanum Kamalum,Entertainment,Paid,2014-11-09 00:00:00,2014-11-09 00:00:00,Kamarajar Arangam A/c,Chennai,Music and Dance
+9917,The Hot Shoe Dance Company's CHICAGO The Musical,Entertainment,Paid,2014-10-11 00:00:00,2014-10-12 00:00:00,sir mutha venkata subba rao concert hall,Chennai,Music and Dance
+9944,KADAVUL VANDHIRUNDHAR,Entertainment,Paid,2014-10-19 00:00:00,2014-10-19 00:00:00,Narada Gana Sabha,Chennai,Theatre
+9964,"III CDUG, India DB2 User Group Event",Conferences,Paid,2014-11-15 00:00:00,2014-11-15 00:00:00,IBM India Pvt Ltd,Chennai,Learning & Workshops
+9971,CATATONIA FEST,Entertainment,Free,2014-11-02 00:00:00,2014-11-02 00:00:00,Goa Portuguesa,Mumbai,Music and Dance
+9992,Snowcity : Bangalore 28 October,Entertainment,Paid,2014-10-28 00:00:00,2014-10-28 00:00:00,Fun World complex,Bengaluru,Variety
+10009,The Tandanu Tour - Indian Ocean,Entertainment,Paid,2014-11-21 00:00:00,2014-11-21 00:00:00,Ravindra Bharathi,Hyderabad,Music and Dance
+10012,No Frontiers - The Clinton Cerejo Band,Entertainment,Paid,2014-11-23 00:00:00,2014-11-23 00:00:00,Ravindra Bharathi,Hyderabad,Music and Dance
+10018,The K Wind - VIP,Entertainment,Paid,2014-11-17 00:00:00,2014-11-17 00:00:00,Music Academy,Chennai,Music and Dance
+10027,Classic Choral - New Indian Classical,Entertainment,Paid,2014-11-16 00:00:00,2014-11-16 00:00:00,Music Academy,Chennai,Theatre
+10031,ELLARUM VAANGA - TVK Cultural Academy,Entertainment,Paid,2014-11-15 00:00:00,2014-11-15 00:00:00,Vani Mahal,Chennai,Comedy
+10033,Snowcity : Bangalore 01 November,Entertainment,Paid,2014-11-01 00:00:00,2014-11-01 00:00:00,Fun World complex,Bengaluru,Variety
+10044,Theatre Nisha presents Mata Hari,Entertainment,Paid,2014-11-21 00:00:00,2014-11-23 00:00:00,"Eduardo Michelin Auditorium,",Chennai,Theatre
+10053,Bohemian Rhapsody,Entertainment,Paid,2014-12-07 00:00:00,2014-12-07 00:00:00,Sir Mutha Venkata Subba Rao Concert Hall,Chennai,Music and Dance
+10070,Snowcity : Bangalore 09 November,Entertainment,Paid,2014-11-09 00:00:00,2014-11-09 00:00:00,Fun World complex,Bengaluru,Variety
+10085,Snowcity : Bangalore 14 November,Entertainment,Paid,2014-11-14 00:00:00,2014-11-14 00:00:00,Fun World complex,Bengaluru,Variety
+10087,Sense Beyond,Entertainment,Paid,2014-11-21 00:00:00,2014-11-21 00:00:00,"Music Academy,",Chennai,Music and Dance
+10099,A SCROOGE FACES CHRISTMAS,Entertainment,Paid,2014-12-12 00:00:00,2014-12-13 00:00:00,Musuem Theatre,Chennai,Music and Dance
+10138,Loosely Tied,Conferences,Paid,2014-12-07 00:00:00,2014-12-07 00:00:00,Alliance Francaise,Bengaluru,Learning & Workshops
+10147,Battle of Da Sexes,Entertainment,Paid,2014-12-21 00:00:00,2014-12-21 00:00:00,Sir Mutha Venkatasubba rao hall,Chennai,Comedy
+10150,Snowcity : Bangalore 26 November,Entertainment,Paid,2014-11-26 00:00:00,2014-11-26 00:00:00,Fun World complex,Bengaluru,Variety
+10197,Mirchi Run,Sports,Paid,1970-01-01 05:00:00,1970-01-01 00:00:00,Queen Marys  ,Chennai,Sports Other
+10231,Chocolate Krishna,Entertainment,Paid,2014-12-13 00:00:00,2014-12-13 00:00:00,Kamban Kalai Arangam,Puducherry,Comedy
+10244,RTI Run For Education,Sports,Paid,1970-01-01 05:00:00,1970-01-01 00:00:00,"Queen Marys College,",Chennai,Sports Other
+10260,Ridley Run,Sports,Paid,1970-01-01 06:00:00,1970-01-01 00:00:00,Marina,Chennai,Sports Other
+10292,THAIKKUDAM BRIDGE - FUSION 2015,Entertainment,Paid,2015-01-16 00:00:00,2015-01-16 00:00:00,"The Music Academy,",Chennai,Music and Dance
+10293,Shankar Mahadevan Live - Tamil Film Hits,Entertainment,Paid,2015-01-15 00:00:00,2015-01-15 00:00:00,"The Music Academy,",Chennai,Music and Dance
+10298,Swappnam - Jan 2nd,Entertainment,Paid,2015-01-02 00:00:00,2015-01-02 00:00:00,Narada Gana Sabha,Chennai,Music and Dance
+10307,NYE 2015 MASQUERADE - Worli,Entertainment,Paid,2014-12-31 00:00:00,2014-12-31 00:00:00,Bombay Dyeing Mills Compound,Mumbai,Music and Dance
+10315,Marriage Made In Saloon,Entertainment,Paid,2014-12-28 00:00:00,2014-12-28 00:00:00,"P.T.THYAGA RAYA HALL Deluxe A/c,",Chennai,Comedy
+10321,Sister Act - A Divine Musical Comedy - Show 1,Entertainment,Paid,2015-01-30 00:00:00,2015-01-30 00:00:00,"The Music Academy,",Chennai,Music and Dance
+10322,Sister Act - A Divine Musical Comedy - Show 2 ,Entertainment,Paid,2015-01-31 00:00:00,2015-01-31 00:00:00,"The Music Academy,",Chennai,Music and Dance
+10338,THE DOORS – A TRIBUTE CONCERT,Entertainment,Paid,2015-01-10 00:00:00,2015-01-10 00:00:00,Museum Theatre ,Chennai,Music and Dance
+10363,Rajesh Vaidhya - Veena Concert,Entertainment,Paid,2015-01-17 00:00:00,2015-01-17 00:00:00,"Kamarajar Arangam,",Chennai,Music and Dance
+10377,The T Plus Run,Sports,Paid,1970-01-01 05:00:00,1970-01-01 00:00:00,"College of Engineering, ",Chennai,Sports Other
+10383,YESUDAS 50,Entertainment,Paid,2015-01-25 00:00:00,2015-01-25 00:00:00,"Nehru Indoor Stadium, ",Chennai,Music and Dance
+10384,Sangamam,Entertainment,Paid,2015-01-24 00:00:00,2015-01-24 00:00:00,"Sir Mutha Venkatasubba Rao Concert Hall, Lady Andal School,",Chennai,Music and Dance
+10397,The Green Light,Entertainment,Paid,2015-02-07 00:00:00,2015-02-07 00:00:00,"Sir Mutha Venkatasubba Rao Concert Hall, ",Chennai,Music and Dance
+10399,ANBULLA SPB (VOLUME II),Entertainment,Paid,2015-01-18 00:00:00,2015-01-18 00:00:00,"P.T.THIYAGARAYA HALL AC,",Chennai,Music and Dance
+10415,AI Movie - 2nd Show 15 Jan,Entertainment,Paid,2015-01-15 00:00:00,2015-01-15 00:00:00,"Island Ground,",Chennai,Movies
+10430,THE GHANTA AWARDS ft EAST INDIA COMEDY,Entertainment,Paid,2015-01-30 00:00:00,2015-01-30 00:00:00,"Phoenix Market City amphitheatre,",Chennai,Comedy
+10447,The T Plus Run Offline,Sports,Paid,1970-01-01 05:00:00,1970-01-01 00:00:00,"College of Engineering, ",Chennai,Sports Other
+10448,Little Hearts Marathon 2015,Sports,Paid,1970-01-01 08:00:00,1970-01-01 00:00:00,"Siddhi Vinayak Temple,",Mumbai,Sports Other
+10469,Arijit Singh Live Concert,Entertainment,Paid,2015-03-13 00:00:00,2015-03-13 00:00:00,YMCA,Chennai,Music and Dance
+10478,Mime Theatre Festival - Corporates,Entertainment,Paid,2015-02-18 19:00:00,2015-02-22 00:00:00,"Narada Gana Sabha, ",Chennai,Theatre
+10497,Parikrama - Live in concert,Entertainment,Paid,2015-02-13 00:00:00,2015-02-13 00:00:00,MAIN ARENA CEG,Chennai,Music and Dance
+10506,An Enemy Of The People - Schaubühne,Entertainment,Paid,2015-02-24 00:00:00,2015-02-24 00:00:00,"Sir Muthu Venkatasubba Rao Concert Hall,",Chennai,Theatre
+10508,The Vagina Monologues - Chennai,Entertainment,Paid,2015-02-21 00:00:00,2015-02-22 00:00:00,"Alliance Francaise of Madras,",Chennai,Comedy
+10509,The Vagina Monologues - Bangalore,Entertainment,Paid,2015-02-14 00:00:00,2015-02-15 00:00:00,"Alliance Francaise De Bangalore,",Bengaluru,Comedy
+10515,Urban Tryst Cyclothon ,Sports,Paid,1970-01-01 05:30:00,1970-01-01 00:00:00,"Lighthouse,",Chennai,Sports Other
+10516,Bala Gala - Techofes,Entertainment,Paid,2015-02-14 00:00:00,2015-02-14 00:00:00,"College of Engineering,",Chennai,Music and Dance
+10529,A Sketchy Affair - Evam,Entertainment,Paid,2015-02-21 00:00:00,2015-02-21 00:00:00,"Alliance Francaise,",Bengaluru,Comedy
+10545,A Dark Tale From The Moulin Rouge,Entertainment,Paid,2015-02-28 00:00:00,2015-02-28 00:00:00,"Sir Muthu Venkatasubba Rao Concert Hall,",Chennai,Music and Dance
+10546,TCC 100 KM Endurance Ride,Sports,Paid,1970-01-01 05:00:00,1970-01-01 00:00:00,"Pro Bikers, ",Chennai,Sports Other
+10547,Aikya 2015,Entertainment,Paid,2015-03-07 00:00:00,2015-03-07 00:00:00,"The Music Academy,",Chennai,Music and Dance
+10554,Girafada ,Entertainment,Paid,2015-02-28 00:00:00,2015-02-28 00:00:00,"Edouard Michelin Auditorium,",Chennai,Movies
+10560,Madras Market V,Entertainment,Paid,2015-02-28 00:00:00,2015-03-01 00:00:00,"Quaid-e-Millath College Ground,",Chennai,Variety
+10599,Women For Women,Entertainment,Paid,2015-03-07 00:00:00,2015-03-07 00:00:00,"DRBCCC Hindu College,",Chennai,Variety
+10603,JADUGAR KARAN MAGIC SHOW - 19 May 2015,Entertainment,Paid,2015-05-19 00:00:00,2015-05-19 00:00:00,"Vani Mahal A/c, (Mahasamy Auditorium),",Chennai,Variety
+10614,JADUGAR KARAN MAGIC SHOW - 30 May 2015,Entertainment,Paid,2015-05-30 00:00:00,2015-05-30 00:00:00,"Vani Mahal A/c, (Mahasamy Auditorium),",Chennai,Variety
+10616,Don Quixote : A Music-Dance-Theatre Production,Entertainment,Paid,2015-03-28 00:00:00,2015-03-28 00:00:00,"The Music Academy,",Chennai,Music and Dance
+10624,Laugh OK Please - 08 Mar,Entertainment,Paid,2015-03-08 00:00:00,2015-03-08 00:00:00,"Vapour Pub,",Bengaluru,Comedy
+10633,TCC - Individual Time Trial event,Sports,Paid,1970-01-01 05:00:00,1970-01-01 00:00:00,"Essar Petrol Bunk,",Chennai,Sports Other
+10634,Chennai Duathlon,Sports,Paid,1970-01-01 06:00:00,1970-01-01 00:00:00,"The Farm,",Chennai,Sports Other
+10650,Evam Standup Tamasha - Tickle Pickle ,Entertainment,Paid,2015-03-15 00:00:00,2015-03-15 00:00:00,"Social,",Chennai,Comedy
+10661,I Play - Chennai,Entertainment,Paid,2015-03-11 00:00:00,2015-05-31 00:00:00,"I Play, ",Chennai,Variety
+10666,Charlie & The Chocolate Factory,Entertainment,Paid,2015-04-11 00:00:00,2015-04-12 00:00:00,"Alliance Francaise, ",Chennai,Theatre
+10672,PONNIYIN SELVAN - SRIDEVI FINE ARTS,Entertainment,Paid,2015-04-10 00:00:00,2015-04-12 00:00:00,"Narada Gana Sabha,",Chennai,Theatre
+10686,Seneca’s Oedipus ,Entertainment,Paid,2015-03-27 00:00:00,2015-03-29 00:00:00,"Edouard Michelin Auditorium, ",Chennai,Theatre
+10693,Rémi Panossian Trio,Entertainment,Paid,2015-03-30 00:00:00,2015-03-30 00:00:00,"Museum Theater,",Chennai,Music and Dance
+10710,RAS BARSE UTSAV 2015,Entertainment,Paid,2015-04-11 00:00:00,2015-04-11 00:00:00,"Chinmaya Heritage Centre,",Chennai,Music and Dance
+10712,MRT1 Stand Up Comedy Night,Entertainment,Paid,2015-04-04 00:00:00,2015-04-04 00:00:00,"Taj Coromandel,",Chennai,Comedy
+10724,Ponniyin Selvan - 03 July 2015,Entertainment,Paid,2015-07-03 00:00:00,2015-07-03 00:00:00,"The Music Academy,",Chennai,Theatre
+10725,Ponniyin Selvan - 04 July 2015 ,Entertainment,Paid,2015-07-04 00:00:00,2015-07-04 00:00:00,"The Music Academy,",Chennai,Theatre
+10726,Ponniyin Selvan - 05 July 2015 ,Entertainment,Paid,2015-07-05 00:00:00,2015-07-05 00:00:00,"The Music Academy,",Chennai,Theatre
+10727,Ponniyin Selvan - 06 July 2015 ,Entertainment,Paid,2015-07-06 18:00:00,2015-07-06 00:00:00,"The Music Academy,",Chennai,Theatre
+10728,Ponniyin Selvan - 07 July 2015 ,Entertainment,Paid,2015-07-07 00:00:00,2015-07-07 00:00:00,"The Music Academy,",Chennai,Theatre
+10729,Ponniyin Selvan - 08 July 2015,Entertainment,Paid,2015-07-08 00:00:00,2015-07-08 00:00:00,"The Music Academy,",Chennai,Theatre
+10731,Ponniyin Selvan - 10 July 2015 ,Entertainment,Paid,2015-07-10 00:00:00,2015-07-10 00:00:00,"The Music Academy,",Chennai,Theatre
+10732,Ponniyin Selvan - 11 July 2015 ,Entertainment,Paid,2015-07-11 00:00:00,2015-07-11 00:00:00,"The Music Academy,",Chennai,Theatre
+10733,Ponniyin Selvan - 12 July 2015 ,Entertainment,Paid,2015-07-12 00:00:00,2015-07-12 00:00:00,"The Music Academy,",Chennai,Theatre
+10738,Bhumi Corporate League - Badminton,Sports,Paid,1970-01-01 08:00:00,1970-01-01 00:00:00,"YMCA,",Chennai,Sports Other
+10764,Naangal – A Tamil Theatre Play,Entertainment,Paid,2015-04-11 00:00:00,2015-04-11 00:00:00,"Dakshinamurthy Auditorium, ",Chennai,Theatre
+10813,Tenderfoot RUN by Chennai Runners,Sports,Paid,2015-04-14 05:30:00,2015-05-05 07:00:00,TBD,Chennai,Sports Other
+10819,Rhapsody - Celebrating for a cause,Entertainment,Paid,2015-05-09 00:00:00,2015-05-09 00:00:00,Museum Theatre ,Chennai,Music and Dance
+10831,MADathon 2015,Sports,Paid,1970-01-01 04:30:00,1970-01-01 00:00:00,Island Grounds,Chennai,Sports
+10867,Chennai Kidathon,Sports,Paid,2017-08-09 06:00:00,2017-08-09 19:15:00,YMCA Grounds,Chennai,Sports
+10893,I Play - 30 Apr 2015,Entertainment,Paid,2015-04-30 00:00:00,2015-04-30 00:00:00,"I Play, ",Chennai,Variety
+10899,The Prayag Marathon – Her Dream Run,Sports,Paid,1970-01-01 05:00:00,1970-01-01 00:00:00,Besant Nagar,Chennai,Sports
+10900,MIRCHI NEON RUN - CHENNAI,Sports,Paid,2015-06-13 18:30:00,2015-06-13 00:00:00,YMCA Grounds ,Chennai,Sports
+10901,MIRCHI NEON RUN - Coimbatore,Sports,Paid,2015-06-05 17:00:00,2015-06-05 00:00:00,Hindustan Engineering College,Coimbatore,Sports
+10902,MIRCHI NEON RUN - Madurai,Sports,Paid,2015-06-07 19:30:00,2015-06-07 00:00:00,Race Course,Madurai,Sports
+10923,Bengaluru’s Platform,Entertainment,Paid,2015-05-31 00:00:00,2015-05-31 00:00:00,19th main grounds,Bengaluru,Variety
+10928,Corporate Run 2015,Sports,Paid,1970-01-01 05:15:00,1970-01-01 00:00:00,VGP Golden Beach Resort ,Chennai,Sports
+10953,Snowcity : Bangalore 11 May 2015,Entertainment,Paid,2015-05-11 00:00:00,2015-05-11 00:00:00,Fun World complex,Bengaluru,Variety
+10956,Public Speaking & Presentation Skills - Shiv Khera,Conferences,Paid,2015-11-02 00:00:00,2015-11-03 00:00:00,RADISSON BLU,Chennai,Learning & Workshops
+10959,AN IDIOT FOR DINNER ,Entertainment,Paid,2015-05-16 00:00:00,2015-05-17 00:00:00,Museum Theatre,Chennai,Comedy
+10964,MOONFOOL,Entertainment,Paid,2015-05-16 00:00:00,2015-05-17 00:00:00,Rangashankara Theatre,Bengaluru,Theatre
+10976,Stage Entry - Summer Camp,Entertainment,Paid,2015-05-23 00:00:00,2015-05-31 00:00:00,Bangalore,Bengaluru,Theatre
+10977,Aranganin Pathaiyil - Dance Ballet - Auditorium,Entertainment,Paid,2015-05-31 00:00:00,2015-05-31 00:00:00,Narada Gana Sabha,Chennai,Music and Dance
+10978,Aranganin Pathaiyil - Dance Ballet - Balcony,Entertainment,Paid,2015-05-31 00:00:00,2015-05-31 00:00:00,Narada Gana Sabha,Chennai,Music and Dance
+10982,Royal Wedding Expo 2015,Conferences,Paid,2015-06-13 00:00:00,2015-06-14 00:00:00,ITC Grand Chola,Chennai,Conferences & Exhibitions
+10983,Wedding Design Summit,Conferences,Paid,2015-06-13 00:00:00,2015-06-13 00:00:00,ITC Grand Chola,Chennai,Conferences & Exhibitions
+11005,Marina Runnerz Anniversary Run ,Sports,Paid,1970-01-01 05:00:00,1970-01-01 00:00:00,Lighthouse,Chennai,Sports Other
+11014,Einstein - Naseeruddin Shah,Entertainment,Paid,2015-06-14 00:00:00,2015-06-14 00:00:00,The Music Academy,Chennai,Theatre
+11015,Theatre Workshop for Kids - Stray Factory,Conferences,Paid,2015-05-25 00:00:00,2015-05-29 00:00:00,Cuckoo Club Diner,Chennai,Learning & Workshops
+11016,"IV CDUG, India DB2 User Group Event",Conferences,Paid,2015-06-20 09:30:00,2015-06-20 17:00:00,IBM India Pvt. Ltd – Tower 10,Chennai,Learning & Workshops
+11018,Ponniyin Selvan - Sri Devi Fine Arts,Entertainment,Paid,2015-06-12 00:00:00,2015-06-12 00:00:00,Narada Gana Sabha,Chennai,Theatre
+11030,Best of MIC TESTING,Entertainment,Paid,2015-05-31 00:00:00,2015-05-31 00:00:00,Social,Chennai,Comedy
+11049, Niagara Summer Fair - 03 June 2015,Entertainment,Paid,2015-06-03 00:00:00,2015-06-03 00:00:00,Island Grounds,Chennai,Variety
+11065,4th HiddenIdol Bharatanatyam Contest,Entertainment,Paid,2015-09-13 17:00:00,2015-09-13 00:00:00,Bharatiya Vidya Bhavan,Chennai,Music and Dance
+11080,Snowcity : Bangalore 11 June 2015,Entertainment,Paid,2015-06-11 00:00:00,2015-06-11 00:00:00,Fun World complex,Bengaluru,Variety
+11084,Test Musical Event,Entertainment,Paid,2015-06-26 09:15:00,2015-06-30 12:15:00,chennai,Chennai,Theatre
+11089,Soppana Vaazhvil - 21 June 2015,Entertainment,Paid,2015-06-21 16:30:00,2015-06-21 00:00:00,Sir Pitty Thyagaraya Hall A/c,Chennai,Theatre
+11099,Mera Woh Matlab Nahi Tha,Entertainment,Paid,2015-07-03 19:30:00,2015-07-03 00:00:00,Sir Mutha Venkatasubba Rao Concert Hall,Chennai,Theatre
+11100, Niagara Summer Fair - 16 June 2015,Entertainment,Paid,2015-06-16 15:00:00,2015-06-16 00:00:00,Island Grounds,Chennai,Variety
+11114,Nitros Day,Sports,Paid,2015-06-28 05:00:00,2015-06-28 00:00:00,Haddows Park,Chennai,Sports Other
+11118,The Drum Fighters,Entertainment,Paid,2015-06-20 19:00:00,2015-06-20 00:00:00,Edouard Michelin Auditorium,Chennai,Music and Dance
+11124,TUG OF WAR,Entertainment,Paid,2015-07-26 08:00:00,2015-07-26 10:00:00,Marina Beach,Chennai,Variety
+11143,Ring-a Ring-a Roses,Entertainment,Paid,2015-07-10 19:00:00,2015-07-12 21:00:00,Edouard Michelin Auditorium,Chennai,Theatre
+11152,IEAFF : Feature Films,Entertainment,Paid,2015-06-28 12:15:00,2015-06-28 13:30:00,Edouard Michelin Auditorium,Chennai,Movies
+11164,AHM 3K Registration,Sports,Paid,2015-08-29 07:00:00,2015-08-29 00:00:00,"HITEX, MADHAPUR",Hyderabad,Sports
+11168,MAHABHARADHATHIL  MANGATHAA,Entertainment,Paid,2015-07-26 19:00:00,2015-07-26 00:00:00,Vani Mahal A/c,Chennai,Theatre
+11169,The Siddhus of Upper Juhu - THTF 2015 - Chn,Entertainment,Paid,2015-08-14 19:30:00,2015-08-14 00:00:00,"SMVRCH, Chennai",Chennai,Theatre
+11172,The Government Inspector - THTF 2015 - Chn,Entertainment,Paid,2015-08-16 19:30:00,2015-08-16 00:00:00,"SMVRCH, Chennai",Chennai,Theatre
+11173,Three One Act Plays - THTF 2015 - Chn,Entertainment,Paid,2015-08-15 19:30:00,2015-08-15 00:00:00,"SMVRCH, Chennai",Chennai,Theatre
+11175,Hamlet Avataar - THTF 2015 - Chn,Entertainment,Paid,2015-08-21 19:30:00,2015-08-21 00:00:00,"SMVRCH, Chennai",Chennai,Theatre
+11176,"2 to Tango, 3 to Jive - THTF 2015 - Chn",Entertainment,Paid,2015-08-22 19:30:00,2015-08-22 00:00:00,"SMVRCH, Chennai",Chennai,Theatre
+11177,Between the Lines - THTF 2015 - Chn,Entertainment,Paid,2015-08-23 19:30:00,2015-08-23 00:00:00,"SMVRCH, Chennai",Chennai,Theatre
+11178,Berthe Morisot - 09 July 2015,Entertainment,Paid,2015-07-09 16:30:00,2015-07-09 00:00:00,Edouard Michelin Auditorium,Chennai,Movies
+11187,Touch - Anil Srinivasan,Entertainment,Paid,2015-07-05 19:30:00,2015-07-05 00:00:00,Edouard Michelin Auditorium,Chennai,Music and Dance
+11190,Scriptwriting with Niranjan Iyengar,Conferences,Paid,2015-07-18 10:00:00,2015-07-18 13:00:00,Iris Hotel,Bengaluru,Learning & Workshops
+11201,Season Pass - Madhuradhwani,Entertainment,Paid,2015-08-28 18:30:00,2015-08-30 00:00:00,Khoo Auditorium,Singapore,Music and Dance
+11205,Play to Win - Chennai ,Conferences,Paid,2015-09-18 09:00:00,2015-09-20 18:00:00, Westin Hotel,Chennai,Learning & Workshops
+11207,AHM 5K Registration,Sports,Paid,2015-08-29 07:15:00,2015-08-29 00:00:00,"HITEX, MADHAPUR",Hyderabad,Sports
+11211,Kabuliwala - Kamal Pruthi ,Conferences,Paid,2015-07-18 11:00:00,2015-07-18 00:00:00,Ecole de Francaise,Delhi,Learning & Workshops
+11214,Between the Lines - THTF 2015 - Hyd,Entertainment,Paid,2015-08-21 19:30:00,2015-08-21 00:00:00,"Ravindra Bharathi, Hyd",Hyderabad,Theatre
+11215,"2 to Tango, 3 to Jive - THTF 2015 - Hyd",Entertainment,Paid,2015-08-23 19:30:00,2015-08-23 00:00:00,"Ravindra Bharathi, Hyd",Hyderabad,Theatre
+11217,"2 to Tango, 3 to Jive - THTF 2015 - Blr",Entertainment,Paid,2015-09-13 19:30:00,2015-09-13 00:00:00,Chowdiah Memorial Hall,Bengaluru,Theatre
+11218,The God Of Carnage - THTF 2015 - Blr,Entertainment,Paid,2015-09-11 19:30:00,2015-09-11 00:00:00,Chowdiah Memorial Hall,Bengaluru,Theatre
+11219,Chennai Kidathon - Offline,Sports,Paid,2015-08-09 06:00:00,2015-08-09 00:00:00,YMCA Grounds,Chennai,Sports
+11221,Sundara Kandam,Entertainment,Paid,2015-08-01 19:00:00,2015-08-01 21:00:00,Music Academy,Chennai,Music and Dance
+11225,Season Pass - THTF 2015 - Chn,Entertainment,Paid,2015-08-14 19:30:00,2015-08-23 21:30:00,SMVRCH,Chennai,Theatre
+11231,Corporate Storytelling Workshop,Conferences,Paid,2015-08-28 10:00:00,2015-08-28 18:00:00,"Hotel Raintree, St Mary’s Road",Chennai,Learning & Workshops
+11240,Ponniyin Selvan - T.V.K Cultural,Entertainment,Paid,2015-08-08 18:00:00,2015-08-08 00:00:00,Kamaraj Arangam A/c,Chennai,Theatre
+11244,Daily Pass - Madhuradhwani,Entertainment,Paid,2015-08-28 18:30:00,2015-08-30 00:00:00,Khoo Auditorium,Singapore,Music and Dance
+11245,"Osama, Cinema and a Whole lot of Black Money ",Entertainment,Paid,2015-07-25 19:15:00,2015-07-26 21:00:00,Alliance Francaise of Madras,Chennai,Theatre
+11252,Ennullil M S V,Entertainment,Paid,2015-07-27 18:30:00,2015-07-27 00:00:00,Kamaraj Arangam A/c,Chennai,Music and Dance
+11255,Murphy's Wedding - 07 Aug 2015,Entertainment,Paid,2015-08-07 19:15:00,2015-08-07 00:00:00,Museum Theatre,Chennai,Theatre
+11256,GO - MADras 7,Entertainment,Paid,2015-09-05 12:00:00,2015-09-06 00:00:00,Radisson Blu Temple Bay,Chennai,Music and Dance
+11257,Murphys Wedding - 08 Aug 2015,Entertainment,Paid,2015-08-08 19:15:00,2015-08-08 00:00:00,Museum Theatre,Chennai,Theatre
+11258,Murphy's Wedding - 16 Aug 2015,Entertainment,Paid,2015-08-16 15:15:00,2015-08-16 00:00:00,Museum Theatre,Chennai,Theatre
+11263,Cinema Spice Mr and Miss Spice Pageant & Awards Grand Finale,Entertainment,Paid,2015-09-27 17:30:00,2015-09-27 21:30:00,Confluence Banquets and Resorts,Chennai,Contests
+11264,evam Standup Tamasha - Why So Serious,Entertainment,Paid,2015-08-01 20:00:00,2015-08-01 00:00:00,Escape,Chennai,Comedy
+11265,Vadavooran,Entertainment,Paid,2015-08-22 19:00:00,2015-08-23 21:00:00,Vani Mahal A/c,Chennai,Theatre
+11268,The Indian Luxury Expo - Wedding Vows,Conferences,Paid,2015-08-08 12:00:00,2015-08-09 23:59:00,ITC Grand Chola ,Chennai,Conferences & Exhibitions
+11294, Karthik Kumar goes solo-Bengaluru,Entertainment,Paid,2015-09-19 19:30:00,2015-09-19 00:00:00,Alliance Francaise ,Bengaluru,Comedy
+11304,Cine Club - Aug 2015,Entertainment,Paid,2015-08-06 16:30:00,2015-08-27 00:00:00,Edouard Michelin Auditorium,Chennai,Movies
+11305,Tiecon 2015,Conferences,Paid,2015-10-30 07:00:00,2015-10-31 00:00:00,ITC Grand Chola,Chennai,Conferences & Exhibitions
+11306,Test buy one,Sports,Paid,2015-09-01 01:16:00,2015-09-01 01:16:00,chennai,Chennai,Sports
+11309,Sellamae - Alandur Fine Arts,Entertainment,Paid,2015-08-08 19:00:00,2015-08-08 00:00:00,German Hall,Chennai,Music and Dance
+11315,Kaizen Robotics Program,Conferences,Paid,2015-08-23 09:00:00,2015-09-26 00:00:00,IIT Madras Research Park,Chennai,Learning & Workshops
+11318,ANKIT TIWARI LIVE IN CONCERT,Entertainment,Paid,2015-10-11 18:00:00,2015-10-11 00:00:00,YMCA ,Chennai,Music and Dance
+11319,Thirumaalin Peyargal 1000,Entertainment,Paid,2015-09-27 18:00:00,2015-09-27 00:00:00,MUSIC ACADEMY,Chennai,Music and Dance
+11330,EST presents Just for Laughs,Entertainment,Paid,2015-08-21 20:00:00,2015-08-21 22:00:00,Rain Tree Hotel,Chennai,Comedy
+11338,MADRASI DA! feat. SA,Entertainment,Paid,2015-09-12 19:30:00,2015-09-12 21:00:00,Alliance Francaise,Bengaluru,Comedy
+11339,MADRASI DA! feat. SA ,Entertainment,Paid,2015-09-27 19:30:00,2015-09-27 21:00:00,Egmore Museum Theatre,Chennai,Comedy
+11347,Kalidasas SHAKUNTALA,Entertainment,Paid,2015-08-31 15:30:00,2015-08-31 00:00:00,Museum Theatre,Chennai,Theatre
+11348,CHOCOLATE KRISHNA,Entertainment,Paid,2015-09-06 19:00:00,2015-09-06 00:00:00,Russian Cultural Centre,Chennai,Comedy
+11355,PAYANAM,Entertainment,Paid,2015-09-20 18:00:00,2015-09-20 20:45:00,SPACES,Chennai,Theatre
+11359,Loyola Alumni Day,Entertainment,Paid,2015-10-02 09:00:00,2015-10-02 00:00:00,Loyola College Campus,Chennai,Music and Dance
+11362,Cook & Bake Along with MasterChef Renae Smith,Entertainment,Paid,2015-09-26 10:00:00,2015-09-27 18:30:00,Food Consulate,Chennai,Variety
+11363,Ovalcrew Fitness Bootcamp,Entertainment,Paid,2015-10-01 09:00:00,2015-12-31 00:00:00,"Plot no 496, Beachmain Road, Kapaleeswarnagar",Chennai,Variety
+11379,Kala Pradarshini,Entertainment,Paid,2015-09-29 18:00:00,2015-09-29 21:00:00,Narada Gana Sabha,Chennai,Music and Dance
+11380,Kaadhula Poo 13 Sep,Entertainment,Paid,2015-09-13 19:00:00,2015-09-13 21:00:00,VANI MAHAL ,Chennai,Theatre
+11382,Chennai Duathlon Oct,Sports,Paid,2015-10-11 05:00:00,2015-10-11 00:00:00,DLF GardenCity,Chennai,Sports
+11386,Marie Kroyer,Entertainment,Paid,2015-09-24 18:30:00,2015-09-24 00:00:00,Edouard Michelin Auditorium,Chennai,Movies
+11388,Nordvest,Entertainment,Paid,2015-09-26 18:00:00,2015-09-26 19:30:00,Edouard Michelin Auditorium,Chennai,Movies
+11389,The Keeper of Lost Causes,Entertainment,Paid,2015-09-26 19:30:00,2015-09-26 00:00:00,Edouard Michelin Auditorium,Chennai,Movies
+11390, Soppana Vaazhvil 20 Sep,Entertainment,Paid,2015-09-20 16:00:00,2015-09-20 00:00:00,VANI MAHAL,Chennai,Theatre
+11392,Isaiyin Imayam - MS Subbulakshmi,Entertainment,Paid,2015-09-15 17:30:00,2015-09-15 00:00:00,Lady Andal Auditorium,Chennai,Music and Dance
+11398,Concert by Anil Srinivasan And Sikkil Gurucharan,Entertainment,Paid,2015-09-19 18:00:00,2015-09-19 00:00:00,"Club Opal,Olympia Opaline,",Chennai,Music and Dance
+11402, Chill Bump,Entertainment,Paid,2015-09-25 19:00:00,2015-09-25 00:00:00,Museum Theatre,Chennai,Movies
+11403,Papa CJ Naked,Entertainment,Paid,2015-10-24 19:00:00,2015-10-24 00:00:00,SMVRCH,Chennai,Comedy
+11430,Beyond Books - 1:00 P.M. to 4:00 P.M.,Conferences,Paid,2015-10-19 13:00:00,2015-10-25 16:00:00,"No.48, 4th Floor, Mohan mansion",Bengaluru,Learning & Workshops
+11440,Google Gadothgajan,Entertainment,Paid,2015-09-17 16:00:00,2015-09-17 21:00:00,Vani Mahal,Chennai,Comedy
+11447,Navarathri Naada Vaibhavam,Entertainment,Paid,2015-10-16 18:00:00,2015-10-18 00:00:00,Music Academy,Chennai,Music and Dance
+11451,Give Me A Sign,Entertainment,Paid,2015-09-27 08:00:00,2015-09-27 11:00:00,Besant Nagar Beach,Chennai,Variety
+11453,Sivakamiyin Sabatham10 Oct,Entertainment,Paid,2015-10-10 18:30:00,2015-10-10 00:00:00,Vani Mahal (Mahaswamigal Hall),Chennai,Theatre
+11456,Plaza Suite,Entertainment,Paid,2015-10-16 19:00:00,2015-10-16 21:30:00,Radisson Blu,Chennai,Theatre
+11462,Yetho Ninaivugal,Entertainment,Paid,2015-10-04 18:15:00,2015-10-04 21:15:00,Kamaraj Arangam (AC),Chennai,Music and Dance
+11463,3- days Radio Jockey Workshop,Conferences,Paid,2015-10-02 10:00:00,2015-10-02 18:00:00,Academy of Broadcasting,Chennai,Learning & Workshops
+11464,Adults - D2D Chennai Night Marathon 2015,Sports,Paid,2015-11-28 22:00:00,2015-11-28 00:00:00,Island Ground,Chennai,Sports
+11466,Kids - D2D Chennai Night Marathon 2015,Sports,Paid,2015-11-28 22:00:00,2015-11-28 00:00:00,Island Ground,Chennai,Sports
+11486,Vaanga Makka Vaanga A Diwali Special Show Haricharan Live In Concert With Bennet and the Band,Entertainment,Paid,2015-11-13 19:00:00,2015-11-13 00:00:00,The Music Academy,Chennai,Music and Dance
+11542,Navaratna,Entertainment,Paid,2015-10-25 18:30:00,2015-10-25 21:00:00,Museum Theatre,Chennai,Music and Dance
+11547,Unnikrishnan Live - Navotsavam,Entertainment,Paid,2015-10-31 19:00:00,2015-10-31 00:00:00,The Music Academy,Chennai,Music and Dance
+11548,Hariharan Live - Navotsavam,Entertainment,Paid,2015-11-01 19:00:00,2015-11-01 00:00:00,The Music Academy,Chennai,Music and Dance
+11557,Mutthu Marathon 2016,Sports,Paid,2016-01-03 05:30:00,2016-01-03 13:00:00,"Selliamman Kovil, Vaikuntham",Salem,Sports
+11565,Thaaliyaa Tallyaa?,Entertainment,Paid,2015-11-23 18:30:00,2015-11-23 00:00:00,Naradha Gana Sabha,Chennai,Comedy
+11570,Nicolai Friedrich Live in Chennai,Entertainment,Paid,2015-10-31 19:00:00,2015-10-31 00:00:00,Sir Mutha Venkatasubba Rao Concert Hall,Chennai,Comedy
+11574,Lanson Toyota Car Fun Rally,Sports,Paid,2015-10-18 08:00:00,2015-10-18 00:00:00,Lanson Toyota Showroom,Chennai,Sports Other
+11582,Stage & Microphone Fright Workshop,Conferences,Paid,2015-10-19 10:00:00,2015-10-19 18:00:00,Academy of Broadcasting,Chennai,Learning & Workshops
+11583,Karthik Iyer band & Trichur Brothers - Navotsavam,Entertainment,Paid,2015-11-03 19:00:00,2015-11-03 00:00:00,The Music Academy,Chennai,Music and Dance
+11584,"Jim Corbett,Pangot & Sattal Wildlife Tour",Entertainment,Paid,2016-01-13 05:00:00,2016-01-19 20:00:00,Nainital District,Nainital,Variety
+11587,PokeME,Entertainment,Paid,2015-10-18 20:00:00,2015-10-18 21:30:00,"Vapour, the Pub",Bengaluru,Comedy
+11589,Concert - Arties,Entertainment,Paid,2015-10-29 19:00:00,2015-10-29 00:00:00,Museum Theatre,Chennai,Movies
+11592,1 - Day Radio Jockey Workshop,Conferences,Paid,2015-10-22 10:00:00,2015-10-22 17:00:00,Academy of Broadcasting,Chennai,Learning & Workshops
+11594,Freemason Brotherhood\tRun,Sports,Paid,2016-04-10 07:00:00,2016-04-10 09:00:00,Anna University,Chennai,Sports
+11595,Pillayar Pidikka,Entertainment,Paid,2015-10-18 19:00:00,2015-10-18 00:00:00,"Vanimahal A/c,Obul Reddy Hall",Chennai,Comedy
+11663,Girl on a Yatra (With Words and PIctures),Conferences,Paid,2015-10-18 11:00:00,2015-11-12 00:00:00,The Apartment Gallery,Chennai,Conferences & Exhibitions
+11664,Cycle Race 50 Kms,Sports,Paid,2015-11-01 05:30:00,2015-11-01 00:00:00,Cycle 2 Fitness ,Puducherry,Sports Other
+11670,Cyclone Music Festival Vol-1,Entertainment,Paid,2015-12-11 17:30:00,2015-12-11 00:00:00,Phoenix Market City ,Bengaluru,Music and Dance
+11671,Super Brain Challenge 14 Nov,Sports,Paid,2015-11-14 08:00:00,2015-11-14 20:00:00,online,Chennai,Sports
+11681,Evam Standup Tamasha Night,Entertainment,Paid,2015-10-31 20:00:00,2015-10-31 00:00:00,Escape GreenPark Hotel,Chennai,Comedy
+11683,Kurukku Vazhiyil Traffic Jam,Entertainment,Paid,2015-11-08 19:00:00,2015-11-08 20:30:00,Music Academy Mini Hall,Chennai,Comedy
+11686,Funadamentals of Photography Workshop with Capture O Graphy,Conferences,Paid,2015-11-14 10:00:00,2015-11-15 00:00:00,Century Club,Bengaluru,Learning & Workshops
+11691,G3 Duathlon - Mixed Relay - 2015,Sports,Paid,2015-11-08 05:00:00,2015-11-08 00:00:00,Chennai Equitation Centre,Chennai,Sports Other
+11692,G3 Duathlon 2015 Kids,Sports,Paid,2015-11-08 05:00:00,2015-11-08 00:00:00,Chennai Equitation Centre,Chennai,Sports Other
+11702,C Maa P Maa ,Entertainment,Paid,2015-11-01 19:00:00,2015-11-01 00:00:00,Vani Mahal,Chennai,Comedy
+11705,Dr.SPBs Naanum Kamalum,Entertainment,Paid,2015-11-08 18:30:00,2015-11-08 00:00:00,Kamarajar Arangam,Chennai,Music and Dance
+11706,Chennai Runners Lecture Series: Practical Nutrition for Runners,Entertainment,Paid,2015-11-01 10:00:00,2015-11-01 11:30:00,Hotel Westin,Chennai,Talk Shows
+11709,Monkey and the mobile,Entertainment,Paid,2015-11-01 15:00:00,2015-11-01 00:00:00,Edouard Michelin Auditorium,Chennai,Comedy
+11713,Week-Ends Nov26,Entertainment,Paid,2015-11-26 16:30:00,2015-11-26 00:00:00,Edouard Michelin Auditorium,Chennai,Theatre
+11717,Monkey and the mobile,Entertainment,Paid,2015-11-01 19:00:00,2015-11-01 00:00:00,Edouard Michelin Auditorium,Chennai,Comedy
+11719,Chennai Live 104.8Fm Diwali Bash,Entertainment,Paid,2015-11-07 18:00:00,2015-11-07 23:30:00,Mowbrays hall,Chennai,Music and Dance
+11720,Sachin Jigar Concert,Entertainment,Paid,2016-01-10 19:00:00,2016-01-10 00:00:00,Phoenix Markertcity,Chennai,Music and Dance
+11722,Farhan Akhtar live,Entertainment,Paid,2016-02-06 19:00:00,2016-02-06 00:00:00,Amir Mahal,Chennai,Music and Dance
+11726,G3 Duathlon - Individual - 2015,Sports,Paid,2015-11-08 05:00:00,2015-11-08 00:00:00,Chennai Equitation Centre,Chennai,Sports Other
+11732,Invitation to RunHappy - an inspirational session ,Conferences,Paid,2015-11-07 16:00:00,2015-11-07 18:00:00,TNCA Club,Chennai,Learning & Workshops
+11733,Freemason Brotherhood\tRun Offline,Sports,Free,2016-04-10 07:00:00,2016-04-10 09:00:00,Anna University ,Chennai,Sports
+11734,Run Bhopal Run,Sports,Paid,2015-12-06 06:00:00,2015-12-06 11:00:00,Tatya Tope Stadium ,Bhopal,Sports
+11740,Time2fitness BOOTCAMP,Entertainment,Paid,2015-12-10 15:23:00,2016-03-01 19:45:00,"17A First Floor Gokul Arcade, # 2 Sardar Patel Road   ",Chennai,Variety
+11746,Jazz Concert : Mezcal Jazz Unit,Entertainment,Paid,2015-11-20 19:00:00,2015-11-20 00:00:00,Edouard Michelin Auditorium,Chennai,Movies
+11788,Petite Princess Chennai Season 2 Grand Finale,Entertainment,Paid,2016-01-24 19:00:00,2016-01-24 00:00:00,LADY ANDAL AUDITORIUM,Chennai,Contests
+11791,Lets Talk Running - Dr. Rajat Chauhan,Conferences,Paid,2015-11-21 17:00:00,2015-11-21 19:00:00,TNCA Club,Chennai,Learning & Workshops
+11913,Hariharan Live-in-Concert,Entertainment,Paid,2015-12-27 18:00:00,2015-12-27 00:00:00,Sri Kanteerava Indoor Stadium,Bengaluru,Music and Dance
+11922,Manganiyar Classroom,Entertainment,Paid,2015-12-11 19:00:00,2015-12-11 00:00:00,Sir Mutha VenkataSubba Rao Auditorium,Chennai,Theatre
+12023,Airtel Run For Education - Airtel Customers,Sports,Paid,2015-11-29 05:45:00,2015-11-29 00:00:00,City Center 1 ,Kolkata,Sports
+12029,Club Nite Party 2016 With Legendary DJ - Pulse,Entertainment,Paid,2015-12-31 21:00:00,2015-12-31 00:00:00,Pulse,Chennai,Music and Dance
+12071,Ridley Run ‘16,Sports,Paid,2016-02-21 06:00:00,2016-02-21 08:00:00,Marina Beach,Chennai,Sports
+12072,Play to Win - Bangalore,Entertainment,Paid,2016-01-22 09:00:00,2016-01-24 18:00:00,Vivanta By Taj,Bengaluru,Contests
+12073,Play to Win - Chennai,Entertainment,Paid,2016-01-29 09:00:00,2016-01-31 18:00:00,The Westin,Chennai,Contests
+12109,Workshop on Recent Trends & Technology - Madurai,Entertainment,Paid,2015-12-10 09:00:00,2015-12-12 13:30:00,"No:634,Opp to “THE HINDU OFFICE”",Madurai,Contests
+12118,MMRT 42 Chennai Flood Relief ,Entertainment,Paid,2015-12-04 17:45:00,2016-01-10 00:00:00,Chennai,Chennai,Variety
+12131,Poke Me,Entertainment,Paid,2015-12-13 15:00:00,2015-12-13 00:00:00,Egmore Museum Theatre,Chennai,Comedy
+12140,Absolute Madness NYE 2016,Entertainment,Paid,2015-12-31 20:00:00,2015-12-31 00:00:00,Ramada Hotel Elliots Hall,Chennai,Music and Dance
+12148,Casino Royale 2016,Entertainment,Paid,2015-12-31 19:00:00,2015-12-31 00:00:00,Fiat Caffe,Bengaluru,Music and Dance
+12149,A-List NYE 2016,Entertainment,Paid,2015-12-31 20:00:00,2015-12-31 00:00:00,Aloft Hotel,Bengaluru,Music and Dance
+12153,Ran-O-Thon,Sports,Paid,2016-01-17 06:00:00,2016-01-17 00:00:00,Morabadi,Ranchi,Sports
+12169,Nenje Ezhu - Madurai,Entertainment,Paid,2016-01-31 18:00:00,2016-01-31 21:00:00,Ring Road,Madurai,Music and Dance
+12174,New Year Eve 2016 ,Entertainment,Paid,2015-12-31 20:00:00,2015-12-31 01:00:00,The Park Hotel,Chennai,Music and Dance
+12187,Marina Runnerz Marathon - 5K ,Sports,Paid,2016-02-28 06:00:00,2016-02-28 00:00:00,Swamy Sivananda Salai,Chennai,Sports
+12188,Marina Runnerz Marathon - 10K ,Sports,Paid,2016-02-28 05:30:00,2016-02-28 00:00:00,Swamy Sivananda Salai,Chennai,Sports
+12189,Half Marathon - Marina Runnerz Marathon,Sports,Paid,2016-02-28 05:00:00,2016-02-28 00:00:00,Swamy Sivananda Salai,Chennai,Sports
+12194,CycloRun,Sports,Free,2016-01-10 05:15:00,2016-01-10 00:00:00,Bharatiya Vidya Bhavans School,Chennai,Sports
+12198,The Quad’s Fat Loss Challenge Q1 2016,Entertainment,Paid,2016-01-11 00:00:00,2016-01-11 00:00:00,This is an online event,Chennai,Contests
+12199,Laugh OK Please 23rd Jan,Entertainment,Paid,2016-01-23 19:30:00,2016-01-23 00:00:00,Phoenix Market City ,Chennai,Comedy
+12220,Tour De Rotary,Sports,Paid,2016-02-07 05:00:00,2016-02-07 00:00:00,College of Enginering,Chennai,Sports
+12222,Marina Runnerz Marathon - Volunteers,Sports,Free,2016-02-28 05:00:00,2016-02-28 00:00:00,Swami Sivananda Salai,Chennai,Sports
+12241,Music Behind the Scenes 3pm ,Entertainment,Free,2016-01-22 15:00:00,2016-01-22 00:00:00,Edouard Michelin Auditorium,Chennai,Music and Dance
+12245,Raag Roop Aur Rang,Entertainment,Paid,2016-02-27 18:15:00,2016-02-27 00:00:00,Narada Gana Sabha,Chennai,Music and Dance
+12260,Kaizen Robotics Program,Conferences,Paid,2016-02-07 09:00:00,2016-03-13 00:00:00,IIT Madras Research Park,Chennai,Learning & Workshops
+12262,Gurgaon Promo Run,Sports,Free,2016-01-26 07:30:00,2016-01-26 09:30:00,Aravalli Biodiversity Park,Gurgaon,Sports Other
+12264,4th Adidas Training Run ,Sports,Free,2016-01-24 06:30:00,2016-01-24 09:30:00,Jawaharlal Nehru stadium,Delhi,Sports
+12272,Rock For Vision,Entertainment,Paid,2016-02-28 17:30:00,2016-02-28 00:00:00,Sir Mutha Venkatasubba Rao Concert Hall,Chennai,Music and Dance
+12273,The Quads T-Shirts,Merchandise,Paid,2016-01-25 00:00:00,2016-02-07 00:00:00,Online,Chennai,Merchandise
+12283,Halo Wings,Sports,Paid,2016-02-07 05:45:00,2016-02-07 00:00:00,Anna University Sports Ground,Chennai,Sports
+12284,FAMILY MANAGED BUSINESS,Conferences,Paid,2016-02-20 09:30:00,2016-03-21 17:30:00,The Rain Tree,Chennai,Learning & Workshops
+12289,My French Film Festival - Feb 8th,Entertainment,Free,2016-02-08 17:00:00,2016-02-08 00:00:00,Edouard Michelin Auditorium,Chennai,Theatre
+12290,My French Film Festival - Feb 9th,Entertainment,Free,2016-02-09 17:00:00,2016-02-09 00:00:00,Edouard Michelin Auditorium,Chennai,Theatre
+12291,Film - Coup de chaud,Entertainment,Free,2016-02-09 19:00:00,2016-02-09 00:00:00,Edouard Michelin Auditorium,Chennai,Theatre
+12292,Film - Caprice,Entertainment,Free,2016-02-08 19:00:00,2016-02-08 00:00:00,Edouard Michelin Auditorium,Chennai,Theatre
+12293,Film - La Belle Saison,Entertainment,Free,2016-02-10 16:30:00,2016-02-10 00:00:00,Edouard Michelin Auditorium,Chennai,Theatre
+12294,Film - LAffaire SK1,Entertainment,Free,2016-02-10 19:00:00,2016-02-10 00:00:00,Edouard Michelin Auditorium,Chennai,Theatre
+12295,Film - Les Chateâux de sables,Entertainment,Free,2016-02-11 19:00:00,2016-02-11 00:00:00,Edouard Michelin Auditorium,Chennai,Theatre
+12297,Superchef - Kids team (of 2),Entertainment,Paid,2016-02-27 08:00:00,2016-02-28 00:00:00,The Park,Chennai,Contests
+12298,Superchef - Adult Individual,Entertainment,Paid,2016-02-27 08:00:00,2016-02-28 00:00:00,The Park,Chennai,Contests
+12303,Sand Sculpting,Sports,Free,2016-02-07 13:00:00,2016-02-07 15:00:00,Marina Beach,Chennai,Sports
+12305,G3 Valentines Day Ride ,Sports,Paid,2016-02-14 05:00:00,2016-02-14 00:00:00,Turiyaa,Chennai,Sports Other
+12309,Ciné Club - Le Dernier Diamant,Entertainment,Free,2016-02-25 16:30:00,2016-02-25 00:00:00,Edouard Michelin Auditorium,Chennai,Theatre
+12311,Kalki - in Ponniyin Selvan,Entertainment,Paid,2016-02-21 18:00:00,2016-02-21 21:00:00,Narada Gana Sabha A/c,Chennai,Theatre
+12317,10K- Marina Runnerz Marathon Offline,Sports,Paid,2016-02-28 05:00:00,2016-02-28 00:00:00,Swami Sivananda Salai,Chennai,Sports
+12320,5K - Marina Runnerz Marathon Offline ,Sports,Paid,2016-02-28 06:00:00,2016-02-28 00:00:00,Swami Sivananda Salai,Chennai,Sports
+12321,AUTO RENOVATE,Conferences,Paid,2016-03-12 09:00:00,2016-03-13 17:00:00,"College of Engineering,Guindy",Chennai,Learning & Workshops
+12327,TCS ~ Ridley Run ‘16 ,Sports,Paid,2016-02-21 06:00:00,2016-02-21 08:00:00,Marina Beach,Chennai,Sports
+12337,10 K - Cool Runners Half marathon ,Sports,Paid,2016-03-20 05:45:00,2016-03-20 00:00:00,YMCA,Chennai,Sports
+12338,Half Marathon - Cool Runners Half Marathon,Sports,Paid,2016-03-20 05:00:00,2016-03-20 00:00:00,YMCA,Chennai,Sports
+12342,Dil Toh Baccha Hai Ji (Non Seated),Entertainment,Paid,2016-02-26 19:15:00,2016-02-26 00:00:00,Sir Mutha Venkatasubba Rao Concert Hall,Chennai,Comedy
+12348,Kean 13 Feb,Entertainment,Free,2016-02-13 19:15:00,2016-02-13 00:00:00,Edouard Michelin Auditorium,Chennai,Theatre
+12357,Radio Mirchi Holi Run Chennai,Sports,Paid,2016-03-27 06:00:00,2016-03-27 00:00:00,YMCA,Chennai,Sports
+12368,Aikya 2016,Entertainment,Paid,2016-03-11 19:30:00,2016-03-11 00:00:00,The Music Academy,Chennai,Music and Dance
+12383,Test,Sports,Free,2016-02-20 00:00:00,2016-02-20 01:00:00,Test,Chennai,Sports
+12418,KANCHI MAHAAN,Entertainment,Paid,2016-03-05 18:00:00,2016-03-05 00:00:00,Narada Gana Sabha,Chennai,Music and Dance
+12429,Charlie and the Great Glass Elevator,Entertainment,Paid,2016-04-16 18:30:00,2016-04-17 20:30:00,Chinmaya Heritage Mission,Chennai,Theatre
+12437,ACE Events Presents Rock N Roll Chennai,Entertainment,Paid,2016-03-26 18:30:00,2016-03-26 21:30:00,The Music Academy,Chennai,Music and Dance
+12438,Jadugar Mangal Magic Show(5 - 6May),Entertainment,Paid,2016-05-05 19:00:00,2016-05-06 00:00:00,Raja Annamalai Mandram A/c,Chennai,Variety
+12455,Counter Terrorism Preventive Security-Corporates,Conferences,Paid,2016-04-27 10:00:00,2016-04-27 18:00:00,Savera Hotel,Chennai,Learning & Workshops
+12461,Millionaire Mind Intensive - Chn ,Conferences,Paid,2016-03-25 09:00:00,2016-03-27 00:00:00,Chennai Trade Centre,Chennai,Learning & Workshops
+12466,Quad FLC Lunch,Sports,Paid,2016-03-19 12:00:00,2016-03-19 15:00:00,Barbeque Nation,Chennai,Sports Other
+12467,PINK RIDE ,Sports,Paid,2016-03-27 06:30:00,2016-03-27 09:30:00,Wild Tribe Ranch,Chennai,Sports
+12468,RCC Platinum in association with Specsmakers presents Toca Boca Kids Carnival,Entertainment,Paid,2016-03-26 10:30:00,2016-03-26 19:30:00,Don Bosco High School,Chennai,Variety
+12470,07/07/07 - The True Story of Reyhanneh Jabbari,Entertainment,Paid,2016-04-15 19:00:00,2016-04-16 20:30:00,Edouard Michelin Auditorium,Chennai,Theatre
+12498,Concert : La Fanfare Couche Tard,Entertainment,Free,2016-04-26 19:00:00,2016-04-26 00:00:00,Museum Theatre,Chennai,Music and Dance
+12503,Tour De Crescent,Sports,Paid,2016-04-24 05:00:00,2016-04-24 00:00:00,"Madhya Kailash , KASTURIBA NAGAR MRTS STATION",Chennai,Sports
+12504,Signature Breaks Annapurna Base Camp,Entertainment,Paid,2016-04-29 06:00:00,2016-05-08 18:00:00,Annapurna Base Camp,Nepal,Variety
+12524,"Drawing, Fancy Dress, Dance, Story Telling Competitions & more...",Entertainment,Paid,2016-05-28 11:30:00,2016-05-29 19:30:00,Ampa Skywalk Mall,Chennai,Contests
+12530,Chennai Kidathon - 400m,Sports,Paid,2016-08-07 16:45:00,2017-08-07 20:00:00,Nehru Stadium,Chennai,Sports
+12601,Kanchipuram Half Marathon 2016,Sports,Paid,2016-07-17 05:00:00,2016-07-17 00:00:00,Tamil Nadu Physical Education and Sports University,Chennai,Sports
+12609,Yercaud Camping Trip for Children,Entertainment,Paid,2016-05-09 06:00:00,2016-05-11 00:00:00,Yercaud ,Salem,Variety
+12631,ECL MARATHON 2016,Sports,Paid,2016-06-12 05:30:00,2016-06-12 00:00:00,VOC Ground,Coimbatore,Sports
+12639,Zumba Master Class with Neeki,Conferences,Free,2016-05-22 16:30:00,2016-05-22 19:30:00,BLUE LAGOON RESORT,Chennai,Learning & Workshops
+12645,Chennai Kidathon - 800m,Sports,Paid,2016-08-07 17:15:00,2016-08-07 00:00:00,Nehru Stadium,Chennai,Sports
+12646,Chennai Kidathon - 1600m,Sports,Paid,2016-08-07 16:00:00,2016-08-07 00:00:00,Nehru Stadium,Chennai,Sports
+12647,Chennai Kidathon - 2000m,Sports,Paid,2016-08-07 15:00:00,2016-08-07 00:00:00,Nehru Stadium,Chennai,Sports
+12648,Ciné Club - Mia Et Le Migou May15,Entertainment,Free,2016-05-15 19:00:00,2016-05-15 00:00:00,Edouard Michelin Auditorium,Chennai,Theatre
+12655,Royal Wedding Expo 2016,Conferences,Paid,2016-06-04 10:00:00,2016-06-05 20:00:00,ITC Grand Chola,Chennai,Conferences & Exhibitions
+12658,Ramanujar Dharisanam,Entertainment,Paid,2016-05-10 18:00:00,2016-05-13 00:00:00,Narada Gana Sabha,Chennai,Music and Dance
+12659,La Forêt Ébouriffée,Entertainment,Free,2016-05-31 19:00:00,2016-05-31 00:00:00,SMVRCH,Chennai,Theatre
+12661,Independence day marathon - 100mts,Sports,Paid,2016-08-07 06:30:00,2016-08-07 00:00:00,Kumararani Meena Muthiah College Ground,Chennai,Sports
+12667,Independence day Marathon-5km,Sports,Paid,2016-08-07 06:30:00,2016-08-07 00:00:00,Kumararani Meena Muthiah College Ground,Chennai,Sports
+12672,Independence day Marathon-Offline,Sports,Free,2016-08-07 06:30:00,2016-08-07 00:00:00,Kumararani Meena Muthiah College Ground,Chennai,Sports
+12717,Ciné Club - ATTILA MARCEL 2nd June ,Entertainment,Free,2016-06-02 16:30:00,2016-06-02 00:00:00,Edouard Michelin Auditorium,Chennai,Theatre
+12719,WCCG Mass 100km Ride,Sports,Paid,2016-06-18 05:00:00,2016-06-18 10:00:00,Anna Nagar/Velachery/Tambaram,Chennai,Sports
+12723,Nitros Day (Relay Male),Sports,Free,2016-07-09 16:00:00,2016-07-09 00:00:00,Nehru Stadium,Chennai,Sports
+12726,Madrasi Da,Entertainment,Paid,2016-06-18 19:30:00,2016-06-18 00:00:00,Sri Mutha Venkatasubba Rao Concert Hall,Chennai,Comedy
+12730,Bangalore Ultra,Sports,Paid,2016-11-12 07:00:00,2016-11-12 00:00:00,Bamboo Forest,Bengaluru,Sports
+12735,EUFF - The Irish Rebellion,Entertainment,Free,2016-06-07 17:00:00,2016-06-07 00:00:00,Edouard Michelin Auditorium,Chennai,Theatre
+12752,Vocal Concert by Sriranjani Santhanagopalan,Entertainment,Paid,2016-06-11 18:00:00,2016-06-11 21:00:00,Club Opal A/C Banquet Hall,Chennai,Music and Dance
+12762,Largest Pink Ribbon Formation,Entertainment,Paid,2016-09-11 06:15:00,2016-09-11 00:00:00,Island Ground,Chennai,Variety
+12783,Kaveri Trail Marathon 10K,Sports,Paid,2016-11-26 00:00:00,2016-11-27 00:00:00,Next to Ranganthittu Bird Sanctuary,Mysore,Sports Other
+12796,Bhaje Pandurangam,Entertainment,Free,2016-08-08 04:30:00,2016-08-11 20:00:00,Narada Gana Sabha,Chennai,Variety
+12798,Srinivasam Prapadye,Entertainment,Paid,2016-07-23 18:30:00,2016-07-23 21:00:00,Music Academy,Chennai,Music and Dance
+12814,GO:MADras 8 Electronic Music Festival,Entertainment,Paid,2016-09-10 12:00:00,2016-09-11 00:00:00,Radisson Blu Temple Bay Mamallapuram,Chennai,Variety
+12821,Short + Sweet 2016 Week One,Entertainment,Paid,2016-07-06 19:00:00,2016-07-10 21:00:00,Alliance Fran�aise of Madras,Chennai,Theatre
+12823,Short + Sweet 2016 Week Two,Entertainment,Paid,2016-07-13 19:00:00,2016-07-17 21:00:00,Alliance Française of Madras,Chennai,Theatre
+12825,Short + Sweet 2016 Wildcard 1,Entertainment,Paid,2016-07-09 14:00:00,2016-07-10 16:00:00,Alliance Fran�aise of Madras,Chennai,Theatre
+12826,Short + Sweet 2016 Wildcard 2,Entertainment,Paid,2016-07-16 14:00:00,2016-07-17 16:00:00,Alliance Française of Madras,Chennai,Theatre
+12834,Kauvery Hospital Trichy Marathon,Sports,Paid,2016-09-25 05:15:00,2016-09-25 09:30:00,Trichy,Trichy,Sports
+12837,ANU VAIDYANATHAN Book Tour,Sports,Free,2016-07-03 16:30:00,2016-07-03 18:30:00,Alumni Club Anna University,Chennai,Sports
+12847,Kashmir to Kanyakumari Tour de Rotary Cycle Rally,Sports,Paid,2016-11-07 07:00:00,2016-12-09 18:00:00,Multiple Locations,Chennai,Sports Other
+12848,Short + Sweet 2016 Gala Finals,Entertainment,Paid,2016-07-27 19:00:00,2016-07-31 21:00:00,Alliance Française of Madras,Chennai,Theatre
+12850,Mirchi Neon Run Chennai,Sports,Paid,2016-09-24 18:30:00,2016-09-24 00:00:00,YMCA,Chennai,Sports
+12858,21K & 10K Porur Racers Anniversary Run,Sports,Free,2016-07-31 05:30:00,2016-07-31 00:00:00,TBD,Chennai,Sports
+12860,5K Porur Racers Anniversary Run,Sports,Free,2016-07-31 05:30:00,2016-07-31 00:00:00,Madha Engineering College,Chennai,Sports
+12866,Paid-5th Rohtak Marathon- 11K,Sports,Paid,2016-11-20 06:00:00,2016-11-20 00:00:00,Jat Collage Ground ,Rohtak,Sports
+12870,"Thaikkudam Bridge, Suraj Mani & Tattva Triper",Entertainment,Paid,2016-08-07 17:30:00,2016-08-07 00:00:00,Sir Mutha Concert Hall,Chennai,Music and Dance
+12873,Wolf’s Lair Skrat & Lagori,Entertainment,Paid,2016-08-20 17:30:00,2016-08-20 00:00:00,Museum Theater,Chennai,Music and Dance
+12879,Chennai Mini Marathon,Sports,Paid,2016-09-11 05:00:00,2016-09-11 00:00:00,Napier Bridge,Chennai,Sports
+12883,G3 Half Duathlon Individual ,Sports,Paid,2016-08-07 05:30:00,2016-08-07 00:00:00,Decathlon OMR,Chennai,Sports
+12884,G3 Half Duathlon Mixed (Team) ,Sports,Paid,2016-08-07 05:30:00,2016-08-07 00:00:00,Decathlon OMR,Chennai,Sports
+12885,G3 Half Duathlon Women (Team),Sports,Paid,2016-08-07 05:15:00,2016-08-07 00:00:00,Decathlon OMR,Chennai,Sports
+12899,Penn Kalvi Run 2016,Sports,Paid,2016-08-07 05:30:00,2016-08-07 08:30:00,"Island Grounds, Marina Beach ",Chennai,Sports
+12900,Radiant Wellness Conclave 2016,Conferences,Paid,2016-08-13 00:00:00,2016-08-13 00:00:00,Sir Mutha Venkatasubba Rao Concert Hall,Chennai,Learning & Workshops
+12908,Aladdin- A Musical Journey,Entertainment,Paid,2016-09-04 19:00:00,2016-09-04 00:00:00,Sir Mutha Venkatasubba Rao Concert Hall,Chennai,Music and Dance
+12911,DSFN,Entertainment,Paid,2016-07-30 19:00:00,2016-07-30 00:00:00,ECR-OMR Junction ECR,Chennai,Music and Dance
+12913,The Mustangs @ Fifty,Entertainment,Paid,2017-01-11 18:30:00,2017-01-11 22:30:00,Green Meadows Resort,Chennai,Music and Dance
+12917,Beatles Forever 7th August,Entertainment,Paid,2016-08-07 19:00:00,2016-08-07 00:00:00,Museum Theatre,Chennai,Music and Dance
+12926,Cyclofun Individual 5Km (8 -12 years),Sports,Paid,2016-08-28 07:00:00,2016-08-28 00:00:00,Madras Motor Sports Club,Chennai,Sports Other
+12931,Cyclofun Obstacle Mania(Corporate Team-Team of 6),Sports,Paid,2016-08-28 07:00:00,2016-08-28 00:00:00,MADRAS MOTOR SPORTS CLUB Irungattakottai,Chennai,Sports
+12942,Cyclofun Individual 22Km (17 years & above),Sports,Paid,2016-08-28 09:00:00,2016-08-28 00:00:00,Madras Motor Sports Club,Chennai,Sports Other
+12951,ALERT-A-THON,Sports,Paid,2016-10-09 05:30:00,2016-10-09 08:00:00,DB Jain College,Chennai,Sports
+12957,TCC CritRace 2016,Sports,Paid,2016-08-28 12:00:00,2016-08-28 00:00:00,Irungattukottai ,Chennai,Sports
+12961,Penn Kalvi Run 2016 MAD,Sports,Paid,2016-08-07 05:30:00,2016-08-07 08:30:00,"Island Grounds, Marina Beach ",Chennai,Sports
+12969,PCM 5k Dream Run(Students Only),Sports,Paid,2016-12-18 06:00:00,2016-12-18 10:00:00,"Albert Hall, Ramniwas Bagh",Jaipur,Sports
+12970,PCM Half Marathon (For Indians),Sports,Paid,2016-12-18 06:00:00,2016-12-18 10:00:00,"Albert Hall, Ramniwas Bagh",Jaipur,Sports
+12973,Calm Like a Bomb,Merchandise,Paid,2016-08-22 00:00:00,2016-09-10 00:00:00,Online,Chennai,Merchandise
+12974,"Day 1 Haricharan, Bennett & Band",Entertainment,Paid,2016-08-20 19:00:00,2016-08-20 21:00:00,Music Academy,Chennai,Music and Dance
+12976,RTR 1st Anniversary Run,Sports,Free,2016-09-04 05:00:00,2016-09-04 08:00:00,Panagal Park,Chennai,Sports
+12993,Day 5 Stephen Devassy,Entertainment,Paid,2016-08-24 19:00:00,2016-08-24 22:00:00,Music Academy,Chennai,Music and Dance
+12997,Day 9 Maniyosai Musical Opera 100th Show,Entertainment,Paid,2016-08-28 18:00:00,2016-08-28 22:00:00,Music Academy,Chennai,Music and Dance
+13001,Coached by Ben Pulham,Sports,Free,2016-09-03 16:00:00,2016-09-03 18:00:00,The WESTIN ,Chennai,Sports
+13009,Piano Recital by Maxime Zecchini,Entertainment,Free,2016-09-08 19:00:00,2016-09-08 00:00:00,Edouard Michelin Auditorium,Chennai,Music and Dance
+13019,CELEBRATION RUN ,Sports,Paid,2016-10-23 06:00:00,2016-10-23 10:30:00,GANDHI MAIDAN ,Mumbai,Sports Other
+13029,PETATHON,Sports,Paid,2016-10-23 06:00:00,2016-10-23 10:30:00,GANDHI MAIDAN ,Mumbai,Sports Other
+13035,Ciné Club - Un château en Italie,Entertainment,Free,2016-09-01 19:00:00,2016-09-01 00:00:00,Edouard Michelin Auditorium,Chennai,Movies
+13041,Mirchi Neon Run Bangalore,Sports,Paid,2016-11-26 18:00:00,2016-11-26 18:00:00,Manyata Embassy,Bengaluru,Sports
+13042,Two 2 Tango,Entertainment,Paid,2016-10-02 19:00:00,2016-10-02 00:00:00,Madras Music Academy,Chennai,Music and Dance
+13047,Chennai Jogathon 2016 ,Sports,Paid,2016-10-02 06:30:00,2016-10-02 08:30:00,Besant Nagar beach,Chennai,Sports
+13048,AURANGZEB,Entertainment,Paid,2016-09-23 19:00:00,2016-09-25 21:00:00,"Edouard Michelin,Alliance Francaise of Madras ",Chennai,Theatre
+13075,Andrum Indrum Endrendrum M.S.Subbulakshmi Centenary Celebrations,Entertainment,Paid,2016-09-15 18:00:00,2016-09-16 21:00:00,Vani Mahal ,Chennai,Music and Dance
+13080,Beatboxing Concert by Faya Braz,Entertainment,Free,2016-09-18 19:00:00,2016-09-18 00:00:00,Courtyard of Phoenix Market City,Chennai,Music and Dance
+13096,Funny Money by Ensomneacks,Entertainment,Paid,2016-11-12 00:00:00,2016-11-12 00:00:00,Alliance Francaise of Madras,Chennai,Theatre
+13109,TEDxChennai,Sports,Paid,2016-10-23 09:00:00,2016-10-23 17:00:00,Sir Mutha Venkatasubba Rao Hall,Chennai,Sports
+13114,NYNA VALÈS live in concert with AKKARAI SUBHALAKSHMI,Entertainment,Free,2016-10-01 19:00:00,2016-10-01 00:00:00,Edouard Michelin Auditorium,Chennai,Music and Dance
+13122, FITSPIR Family Fun Run,Sports,Paid,2016-10-16 06:00:00,2016-10-16 10:00:00,DLF Garden City ,Chennai,Sports Other
+13123,Karaikudi Marathon,Sports,Free,2016-09-29 06:30:00,2016-09-29 09:00:00,Karaikudi,Karaikudi,Sports Other
+13126,Kashmir to Kanyakumari Tour de Rotary Cycle Rally ,Sports,Paid,2016-11-07 07:00:00,2016-12-09 18:00:00,Jammu - Pathankot - Jalandhar - Ludhiana - Ambala - Sonepat - New Delhi - Gurgoan - Neemrana - Jaipur - Ajmer - Udaipur - Gandhinagar - Vadodara - Surat - Vapi - Mumbai - Pune - Kholapur - Dharwad - Chitradurga - Bengaluru - Vellore - Chennai - Pondy - Sal,Chennai,Sports Other
+13127,Wheel It With Mustangs,Sports,Free,2016-10-16 04:45:00,2016-10-16 12:30:00,"Pro-Bikers, OMR",Chennai,Sports
+13142,MY COUNTRY RUN,Sports,Paid,2017-01-08 15:00:00,2017-01-08 00:00:00,Kanteerava Stadium,Bengaluru,Sports
+13153,Coimbatore 10KM TN Marathon 2017,Sports,Paid,2017-04-30 00:00:00,2017-04-30 00:00:00,TBA,Coimbatore,Sports
+13165,Charan Memorial Ride,Sports,Free,2016-10-23 05:00:00,2016-10-23 00:00:00,Probikers,Chennai,Sports
+13170,Family FUN RUN,Sports,Free,2016-10-16 06:00:00,2016-10-16 08:00:00,DLF Garden City ,Chennai,Sports
+13185,ERWA and OMR Athletes presents FITSPIR Family Fun Run,Sports,Free,2016-10-23 06:00:00,2016-10-23 08:00:00,L & T Eden Park,Chennai,Sports
+13194,LIONS CENTENNIAL MARATHON,Sports,Paid,2017-02-05 05:30:00,2017-02-05 00:00:00,Marina Beach,Chennai,Sports
+13195,Mutthu Marathon 2017,Sports,Paid,2017-01-08 05:30:00,2017-01-08 00:00:00,"Selliamman Kovil, Vaikuntham",Salem,Sports Other
+13196,Ras Barse Utsav 2016,Entertainment,Free,2016-11-12 18:00:00,2016-11-12 00:00:00,Music Academy,Chennai,Music and Dance
+13197,Cycle for a Cause - Support Literacy ,Sports,Paid,2016-11-13 05:15:00,2016-11-13 12:00:00,Track & Trail - Bicycle Hub,Chennai,Sports Other
+13202,LAKSHAMAN SRUTHI [ MUSIC SHOW ],Entertainment,Paid,2016-10-30 18:30:00,2016-10-30 00:00:00,RAJA ANNAMALAI MANDRAM A/C,Chennai,Theatre
+13208,Anoushka Shankar-Land of Gold- Live in Concert,Entertainment,Paid,2016-12-02 19:30:00,2016-12-02 00:00:00,Sir Mutha Venkatasubba Rao Concert Hall,Chennai,Music and Dance
+13220,THE GREAT INDIA MARATHON,Sports,Paid,2016-11-27 05:30:00,2016-11-27 00:00:00,Light House.,Chennai,Sports
+13222,DJ Concert by Jean du Voyage,Entertainment,Free,2016-11-16 23:30:00,2016-11-16 00:00:00,The Leather Bar @ The Park,Chennai,Music and Dance
+13232,The Power of Beliefs by Mahatria Ra,Conferences,Paid,2016-12-11 16:00:00,2016-12-11 18:00:00,Madras University Centenary Hall,Chennai,Learning & Workshops
+13233,FUTURE CAREER FAIR 2017,Conferences,Paid,2017-02-18 09:30:00,2017-02-18 15:30:00,TBD,Chennai,Conferences & Exhibitions
+13236,Hybrid (50K),Sports,Paid,2016-11-20 05:00:00,2016-11-20 00:00:00,TRACK AND TRAIL/ CYCLOGEN OMR,Chennai,Sports
+13238,Free First Aid Training,Conferences,Free,2016-11-13 10:00:00,2017-11-12 12:00:00,Kauvery Hospital,Trichy,Learning & Workshops
+13254,T[WO]RUE LEGENDS,Entertainment,Paid,2016-11-20 19:00:00,2016-11-20 00:00:00,P.T. THYAGARAYA HALL A/C,Chennai,Theatre
+13260,Yes I can run -5Km OMR Run ,Sports,Paid,2017-02-05 06:30:00,2017-02-05 00:00:00,Satyabhama College,Chennai,Sports Other
+13261,Avid Runner - 10Km OMR Run,Sports,Paid,2017-02-05 06:00:00,2017-02-05 00:00:00,Satyabhama College,Chennai,Sports Other
+13266,Somewhere Between the Sky and the Sea,Entertainment,Paid,2016-12-03 19:00:00,2016-12-04 20:45:00,Goethe Institut,Chennai,Theatre
+13278,Free-5th Rohtak Marathon- 11K ,Sports,Free,2016-11-20 06:00:00,2016-11-20 00:00:00,Jat Collage Ground ,Rohtak,Sports
+13292,10KM - CHENNAI INTERNATIONAL MARATHON,Sports,Paid,2017-02-19 05:30:00,2017-02-19 01:00:00,Kumararani meena muthiah college ground,Chennai,Sports Other
+13298,Play : Land of Ashes and Diamonds,Entertainment,Free,2016-12-03 19:00:00,2016-12-03 00:00:00,Edouard Michelin Auditorium,Chennai,Theatre
+13308,CINÉ CLUB : LE PÈRE NOËL,Entertainment,Free,2016-12-01 19:00:00,2016-12-01 00:00:00,Edouard Michelin Auditorium,Chennai,Movies
+13352,WCCG Outskirts 100 km Ride 2017,Sports,Paid,2017-01-01 05:30:00,2017-01-01 12:30:00,Manivakkam high school,Chennai,Sports
+13353,Ensomneacks Anthology #1,Entertainment,Paid,2017-01-07 16:00:00,2017-01-07 21:00:00,Alliance Francaise Chennai,Chennai,Theatre
+13356,Tiger Run 2017,Sports,Paid,2017-01-29 06:00:00,2017-01-29 00:00:00,FIREBIRD INSTITUTE OF RESEARCH IN MANAGEMENT,Coimbatore,Sports
+13390,MY COUNTRY RUN Corporate,Sports,Paid,2017-01-08 16:00:00,2017-01-08 00:00:00,Kanteerava Stadium,Bengaluru,Sports
+13411,Please Dont Tell Bar,Entertainment,Paid,2017-01-11 20:00:00,2017-01-11 23:45:00,Crowne Plaza Chennai,Chennai,Variety
+13420,LSoM 31st December 2016,Sports,Paid,2016-12-31 06:00:00,2016-12-31 09:30:00,Suyojit Road- Bapu Bridge,Nashik,Sports
+13436,PEDAL TO PLANT WITH MUSTANGS,Sports,Free,2017-01-26 05:00:00,2017-01-26 12:30:00,"PROBIKERS, OMR",Chennai,Sports Other
+13441,21KM - Marina Runnerz,Sports,Paid,2017-02-26 04:30:00,2017-02-26 00:00:00,Marina Beach,Chennai,Sports
+13444,10K - Marina Runnerz,Sports,Paid,2017-02-26 05:00:00,2017-02-26 00:00:00,Marina Beach,Chennai,Sports
+13449,Charity - Marina Runnerz,Sports,Paid,2017-02-26 00:00:00,2017-02-26 00:00:00,Marina Beach,Chennai,Sports Other
+13450,Superchef- Kids Team (of 2),Entertainment,Paid,2017-02-04 00:00:00,2017-02-05 00:00:00,Contest- The Park Hotel,Chennai,Contests
+13454,Mirchi Neon Run Coimbatore,Sports,Paid,2017-02-11 18:00:00,2017-02-11 00:00:00,"Codissia Grounds, Coimbatore.",Coimbatore,Sports
+13455,Legends Marathon,Sports,Paid,2017-02-05 06:00:00,2017-02-05 00:00:00,Marina beach,Chennai,Sports
+13460,5KM - AIRTEL RAN-O-THON,Sports,Free,2017-01-22 06:00:00,2017-01-22 00:00:00,MORABADHI GROUND,Ranchi,Sports
+13462,10KM - AIRTEL RAN-O-THON,Sports,Paid,2017-01-22 06:00:00,2017-01-22 00:00:00,MORABADHI GROUND,Ranchi,Sports
+13468,Ridley Run 2017,Sports,Paid,2017-03-05 06:00:00,2017-03-05 00:00:00,Palavakkam Beach,Chennai,Sports
+13469,Mission Crusader 2K17,Sports,Paid,2017-02-05 05:30:00,2017-02-05 07:30:00,Easwari Engineering College,Chennai,Sports
+13497,MTB - Track and Trail Gran Fondo,Sports,Paid,2017-01-29 05:15:00,2017-01-29 10:00:00,"Track and Trail store, Trichy",Trichy,Sports
+13499,Physical Fitness Assessment ,Sports,Free,2017-01-15 10:00:00,2017-01-15 12:00:00,"3rd floor, Citimall",Mumbai,Sports
+13514,Buy One Get One Free,Entertainment,Paid,2017-01-20 19:00:00,2017-01-22 20:00:00,Alliance Francaise of Madras ,Chennai,Theatre
+16463,TCS World 10K Bangalore 2015,Sports,Paid,0000-00-00 00:00:00,0000-00-00 00:00:00,,,
+16464,Standard Chartered Mumbai Marathon 2016,Sports,Paid,0000-00-00 00:00:00,0000-00-00 00:00:00,,,
+16465,Airtel Delhi Half Marathon 2015,Sports,Paid,0000-00-00 00:00:00,0000-00-00 00:00:00,,,
+16466,Tata Steel Kolkata 25K 2015,Sports,Paid,0000-00-00 00:00:00,0000-00-00 00:00:00,,,
+16467,The Wipro Chennai Marathon 2014,Sports,Paid,0000-00-00 00:00:00,0000-00-00 00:00:00,,,
+16468,Spice Coast Marathon 2016,Sports,Paid,2016-11-13 00:00:00,2016-11-13 00:00:00,Cochin,Cochin,
+16469,Kaveri Trail Marathon 2016,Sports,Paid,2016-11-26 00:00:00,2016-11-26 00:00:00,,,
+16471,IDBI Federal Life Insurance New Delhi Marathon 2017,Sports,Paid,2017-02-26 00:00:00,2017-02-26 00:00:00,,,
+16473,Tamilnadu Marathon 2017,Sports,Paid,2017-02-05 00:00:00,2017-02-05 00:00:00,,,
+16481,TCS World 10K Bangalore 2016,Sports,Paid,0000-00-00 00:00:00,0000-00-00 00:00:00,,,
+16482,Standard Chartered Mumbai Marathon 2017,Sports,Paid,0000-00-00 00:00:00,0000-00-00 00:00:00,,,
+16483,LSoM 29th January 2017,Sports,Paid,2017-01-29 06:30:00,2017-01-29 09:00:00,Suyojit Road- Bapu Bridge,Nashik,Sports
+16484,Airtel Delhi Half Marathon 2016,Sports,Paid,0000-00-00 00:00:00,0000-00-00 00:00:00,,,
+16485,Tata Steel Kolkata 25K 2016,Sports,Paid,0000-00-00 00:00:00,0000-00-00 00:00:00,,,
+16487,The Wipro Chennai Marathon 2015,Sports,Paid,0000-00-00 00:00:00,0000-00-00 00:00:00,,,
+16489,The Wipro Chennai Marathon 2016,Sports,Paid,2017-01-08 00:00:00,2017-01-08 00:00:00,,,
+16495,Mirchi Neon Run Coimbatore,Sports,Paid,2017-02-11 18:00:00,2017-02-11 00:00:00,Codissia Grounds,Coimbatore,Sports
+16499,Goya,Entertainment,Paid,2017-02-05 19:00:00,2017-02-05 00:00:00,Museum Theatre,Chennai,Music and Dance
+16508,HALO WINGS,Sports,Paid,2017-02-12 05:30:00,2017-02-12 07:00:00,Anna University ,Chennai,Sports
+16535,MEPZ RUN,Sports,Paid,2017-03-05 04:30:00,2017-03-05 10:00:00,"Mepz Campus,",Chennai,Sports
+16586,Coimbatore Kiddathon,Sports,Paid,2017-02-26 06:30:00,2017-02-26 00:00:00,Racecourse,Coimbatore,Sports
+16684,Chennai Runners Membership,Membership,Paid,2015-05-23 10:06:09,0000-00-00 00:00:00,,chennai,
+16729,Mirchi Holi Run,Sports,Paid,2017-03-12 06:30:00,2017-03-12 00:00:00,YMCA Nandanam,Chennai,Sports
+16746,Hybrid Vehicle,Conferences,Paid,2017-03-17 00:00:00,2017-03-18 00:00:00,MIT CAMPUS � ANNA UNIVERSITY,Chennai,Learning & Workshops
+16760,2K Walk - Give a Brick Run,Sports,Paid,2017-08-20 05:00:00,2017-08-20 12:00:00,Olcott Memorial School,Chennai,Sports
+16761,10K Run - Give a Brick Run ,Sports,Paid,2017-08-20 05:00:00,2017-08-20 12:00:00,Olcott Memorial School,Chennai,Sports
+16764,Ride To Mpower,Sports,Paid,2017-03-26 00:00:00,2017-03-26 00:00:00,mumbai,mumbai,
+16776,DCF-CPLD MARATHON,Sports,Paid,2017-04-02 04:00:00,2017-04-02 10:00:00,"Jothi theatre, Kathipara Junction - St. Thomas Mount",Chennai,Sports
+16779,Chennai Runners,Entertainment,Paid,0000-00-00 00:00:00,0000-00-00 00:00:00,,,
+16814,Nammai Marandarai Naam Marakkamattom - Dance Theatre Production,Entertainment,Free,2017-04-17 18:30:00,2017-04-17 20:30:00,Narada Gana Sabha,Chennai,Music and Dance
+16817,WCCG Island 125KM Ride,Sports,Free,2017-03-26 05:00:00,2017-03-26 12:00:00,"TRACK & TRAIL - Bicycle Hub, Kodambakkam",Chennai,Sports
+16825,Pallavaram Challengers,Sports,Paid,2017-04-16 00:00:00,2017-04-16 00:00:00,Pallavaram,Chennai,Sports
+16848,CHENNAI MINI MARATHON,Sports,Free,2017-09-10 06:00:00,2017-09-10 12:00:00,Elliots Beach,Chennai,Sports
+16870,TCS WORLD 10K BENGALURU 2017,Sports,Paid,2017-05-21 04:00:00,2017-05-21 08:00:00,Bengaluru,Bengaluru,Sports
+16894,VV Roll the Wheels 2017,Sports,Paid,2017-04-16 05:00:00,2017-04-16 00:00:00,MRTS,Chennai,Sports
+16947,Ride for Environment,Sports,Paid,2017-06-04 05:15:00,2017-06-04 10:45:00,Madhya Kailash,Chennai,Sports
+16953,5K Run - Give a Brick Run,Sports,Paid,2017-08-20 05:00:00,2017-08-20 12:00:00,Olcott Memorial School,Chennai,Sports
+16972,WCCG 200KM Night Ride,Sports,Free,2017-05-06 17:30:00,2017-05-07 07:00:00,Porur Toll Plaza,Chennai,Sports
+16999,Gran Fondo - Chennai,Sports,Paid,2017-04-30 05:00:00,2017-04-30 10:30:00,Track & Trail ,Chennai,Sports
+17010,Manali Challengers,Sports,Paid,2017-06-18 16:00:00,2017-06-18 20:00:00,"3572, 2nd Main Rd",Chennai,Sports
+17013,Chennai Kidathon - 800M,Sports,Paid,2017-08-06 15:45:00,2017-08-06 18:30:00,Nehru Stadium,Chennai,Sports
+17015,Chennai Kidathon - 400M,Sports,Paid,2017-08-06 16:15:00,2017-08-06 19:00:00,Nehru Stadium,Chennai,Sports
+17016,Chennai Kidathon - 1600M,Sports,Paid,2017-08-06 15:00:00,2017-08-06 19:45:00,Nehru Stadium,Chennai,Sports
+17017,Chennai Kidathon - 2000M,Sports,Paid,2017-08-06 19:45:00,2017-08-06 20:45:00,Nehru Stadium,Chennai,Sports
+17094,DGL Madras 2017,Conferences,Free,2017-08-11 11:00:00,2017-08-12 00:00:00,Freemasons Hall,Chennai,Conferences & Exhibitions
+17171,10K - Kauvery Hospital Trichy Marathon,Sports,Free,2017-09-24 04:45:00,2017-09-24 11:00:00,District court ,Trichy,Sports
+17172,5K - Kauvery Hospital Trichy Marathon,Sports,Free,2017-09-24 04:45:00,2017-09-24 11:00:00,District court ,Trichy,Sports
+17177,Success Mantra - The Path to Progress,Entertainment,Paid,2017-07-29 19:00:00,2017-07-29 21:00:00,"The Music Academy, Old No. 306, New No. 168, ",Chennai,Talk Shows
+17178,The Wipro Chennai Marathon 2017,Sports,Paid,2017-12-03 04:00:00,2017-12-03 08:00:00,Chennai,Chennai,Sports Other
+17197,Bonding With Ruskin,Entertainment,Paid,2017-06-23 19:15:00,2017-06-25 00:00:00,The Museum Theatre Chennai,Chennai,Theatre
+17209,Carte Blanch Event Registration,Conferences,Paid,2017-02-17 09:30:00,2017-02-19 16:00:00,MIT Chrompet,Chennai,
+17210,1.5K Budding Champ,Sports,Paid,2017-02-26 06:30:00,2017-02-26 00:00:00,Racecourse,Coimbatore,
+17306,WCCG Mass 100K Ride,Sports,Paid,2017-06-11 05:15:00,2017-06-11 11:45:00,Just Buy Cycles,Chennai,Sports
+17313,"Tamilnadu Cycling Club ITT2 (June 11,2017)",Sports,Paid,2017-06-11 06:00:00,2017-06-11 08:00:00,"Outer Ring Road, Chennai.",Chennai,Sports
+17315,IDBI Federal Life Insurance Spice Coast Marathon 2017,Sports,Paid,2017-11-12 00:00:00,2017-11-12 00:00:00,Willingdon Island,Kochi,Sports Other
+17336,21K- INNER STRENGTH HALF MARATHON 2017,Sports,Paid,2017-09-17 05:00:00,2017-09-17 08:30:00,Mayajaal,Chennai,Sports
+17346,Avadi Cyruns GREENWAY ENDURANCE Ride,Sports,Paid,2017-06-18 05:00:00,2017-06-18 23:45:00,"JBC, Ambattur",Chennai,Sports
+17357,10K- INNER STRENGTH HALF MARATHON 2017,Sports,Paid,2017-09-17 05:30:00,2017-09-17 08:00:00,Mayajaal,Chennai,Sports
+17359,BOB I LUV CHENNAI 100 Km RIDE,Sports,Paid,2017-02-12 04:00:00,2017-02-12 13:00:00,Ciclo Cafe,Chennai,Sports
+17360,SUPERCHEF-ADULTS TEAM(of 2),Entertainment,Paid,2017-02-04 00:00:00,2017-02-05 00:00:00,Contest- The Park Hotel ,Chennai,
+17363,Mirchi Neon Run Coimbatore,Sports,Paid,2017-02-11 18:00:00,2017-02-11 00:00:00,Codissia Grounds,Coimbatore,Sports
+17367,21KM - Marina Runnerz Offline,Sports,Free,2017-02-26 04:30:00,2017-02-26 00:00:00,Marina Beach,Chennai,Sports
+17376,WCCG Highways 200,Sports,Free,2017-02-05 05:00:00,2017-02-05 18:30:00,"Pro-Bikers, OMR",Chennai,Sports
+17387,10K or Family Fun Run - Trivandrum Marathon 2017,Sports,Paid,2017-12-09 00:00:00,2017-12-10 00:00:00,Manaveeyam Road,Trivandrum,"10Km,funrun,running"
+17388,Justus 10th Year Celebration,Entertainment,Paid,2017-06-24 15:30:00,2017-06-25 00:00:00,Alliance Francis,Chennai,Variety
+17414,Crazy Mohan & Maadhu Balajis New Comedy Play MEENDUM CRAZY THIEVES ,Entertainment,Paid,2017-06-25 16:00:00,2017-06-25 18:00:00,Vani Mahal A/C,Chennai,Theatre
+17425,SIA 70th Anniversary Car Rally - Chennai,Sports,Paid,2017-06-25 08:00:00,2017-06-25 11:00:00,Madras Christian College School Campus,Chennai,Sports
+17435,CIYF Marathon,Sports,Paid,2017-08-20 04:00:00,2017-08-20 10:00:00,Besant nagar ,Chennai,Sports
+17506,21K & 10K PORUR RACERS ANNIVERSARY RUN,Sports,Free,2017-07-16 05:00:00,2017-07-16 11:00:00,Madha Engineering College,Chennai,Sports
+17511,Chennai Duathlon 2017,Sports,Paid,2017-10-08 04:30:00,2017-10-08 06:00:00,DLF Semmancheri,Chennai,Sports Other
+17519,Pedal for Nature - 2,Sports,Paid,2017-07-23 04:30:00,2017-07-23 08:30:00,Probikers,Chennai,Sports
+17521,Short + Sweet 2017 Week 1,Entertainment,Paid,2017-07-05 19:00:00,2017-07-09 21:00:00,"Alliance Francaise of Madras,",Chennai,Theatre
+17524,Short + Sweet 2017 Week 2,Entertainment,Paid,2017-07-12 19:00:00,2017-07-15 21:00:00,"Alliance Francaise of Madras, 24, College Road,",Chennai,Theatre
+17554,Go Green Kovaipudur Marathon,Sports,Paid,2017-09-10 04:00:00,2017-09-10 00:00:00,Kovaipudur,Coimbatore,Sports
+17555,"Tamilnadu Cycling Club ITT3 (July 9, 2017)",Sports,Paid,2017-07-09 05:45:00,2017-07-09 09:00:00,"Start - Ahead of Kovalam Bus Stop, End - MGM & Ceremonies - Mayajaal",Chennai,Sports Other
+17566,Road Rash ORR - Individual Time Trail,Sports,Paid,2017-07-15 06:00:00,2017-07-15 09:00:00,Chennai Outer Ring Road,Chennai,Sports
+17595,WCCG Anniversary Awards and Dinner,Sports,Paid,2017-07-09 18:30:00,2017-07-09 21:00:00,Turyaa Chennai,Chennai,Sports
+17597,Mirchi Neon Run ,Sports,Paid,2017-11-25 18:30:00,2017-11-25 00:00:00,YMCA College Of Physical Education,Chennai,"Sports,marathon"
+17604,21K or 42K - Trivandrum Marathon 2017,Sports,Paid,2017-12-09 00:00:00,2017-12-10 00:00:00,Manaveeyam Road,Trivandrum,"Full,half marathon,half"
+17678,Half Marathon - Kotak Wheelchair Marathon,Sports,Paid,2017-09-03 04:00:00,2017-09-03 00:00:00,Olcott Memorial Higher Secondary School,Chennai,Sports
+17679,10K - Kotak Wheelchair Marathon,Sports,Paid,2017-09-03 04:30:00,2017-09-03 00:00:00,Olcott Memorial Higher Secondary School,Chennai,Sports
+17680,5K - Kotak Wheelchair Marathon,Sports,Paid,2017-09-03 05:30:00,2017-09-03 00:00:00,Olcott Memorial Higher Secondary School,Chennai,Sports
+17691,Tamilnadu Cycling Club Criterium Races 2017,Sports,Paid,2017-09-10 05:30:00,2017-09-10 09:15:00,MMSC Race Track ,Chennai,Sports
+17695,10K Bhubaneshwar ,Sports,Paid,2018-01-07 05:30:00,2018-01-07 00:00:00,TBA,Bhubaneswar,"10K,marathon"
+17737,Cyclofun Individual 6KM ,Sports,Paid,2017-09-03 06:45:00,2017-09-03 10:00:00,Anna University,Chennai,Sports Other
+17740,Cyclofun Individual 30KM ,Sports,Paid,2017-09-03 05:15:00,2017-09-03 00:00:00,Anna University,Chennai,Sports Other
+17751,21KM & 10KM-Yeour Hill Half Marathon,Sports,Paid,2017-10-08 06:00:00,2017-10-08 00:00:00,KORUM MALL,Thane,Sports
+17763,Chennai PedalBeat TCC SpinFondo-2,Sports,Paid,2017-09-03 06:00:00,2017-09-03 00:00:00,PedalBeat Chennai,Chennai,Sports
+17768,GO:MADras IX,Entertainment,Paid,2017-09-16 12:00:00,2017-09-17 00:00:00,"Confluence Banquets and Resort,  ECR - OMR Junction ECR",Chennai,Music and Dance
+17775,TEST GO:MADras IX TEST,Entertainment,Paid,2017-09-16 12:00:00,2017-09-17 00:00:00,"Confluence Banquets and Resort,  ECR - OMR Junction ECR",Chennai,Music and Dance
+17781,TATA Mumbai Marathon 2018,Sports,Paid,2018-01-21 00:00:00,2018-01-21 00:00:00,Mumbai,Mumbai,"full,half,half marathon,10K,marathon"
+17813,Decathlon Kalenji 5k Run,Sports,Paid,2017-08-06 05:30:00,2017-08-06 08:00:00,Chettinad Sarvalokaa Education International School Kelambakam Chennai,Chennai,
+17819,WCCG Newbie Ride,Sports,Paid,2017-08-15 06:00:00,2017-08-15 07:30:00,"Multiple Venues - OMR, Adyar, Kodambakkam, Tambaram",Chennai,
+17830,Pedal2Seek,Sports,Paid,2017-08-26 05:30:00,2017-08-26 07:30:00,Surprise,Chennai,
+17831,Karaikudi Marathon 2017,Sports,Free,2017-08-13 06:30:00,2017-08-13 09:30:00,Kauvery Medical Centre,Karaikudi,
+17836,Mozart,Entertainment,Paid,2017-08-10 18:30:00,2017-08-10 20:30:00,"MUSEUM THEATRE, No 406, Pantheon Road,",Chennai,
+17837,Automated robot workshop,Conferences,Paid,2017-09-03 09:30:00,2017-09-03 16:30:00,IIT Madras Research Park,Chennai,
+17839,CODA – AUGUST RUSH,Entertainment,Paid,2017-08-08 19:00:00,2017-08-08 21:00:00,CHETTINAD RANI SEETHAI HALL,Chennai,
+17840,Test,Conferences,Paid,2017-07-29 10:00:00,2017-07-29 11:00:00,Testing1,Chennai,
+17844,In The Flow with Anna Olkinuora,Conferences,Paid,2017-08-04 18:00:00,2017-08-06 14:00:00,Lahe Lahe,Bengaluru,
+17845,Ciné Club : LAURENCE ANYWAYS,Entertainment,Free,2017-08-10 19:00:00,2017-08-10 22:00:00,Edouard Michelin Auditorium,Chennai,
+17846,Ciné Club : LAURENCE ANYWAYS,Entertainment,Free,2017-08-20 16:00:00,2017-08-20 19:00:00,Edouard Michelin Auditorium,Chennai,
+17847,Ciné Club : LA FILLE DU PATRON,Entertainment,Free,2017-08-20 19:00:00,2017-08-20 22:00:00,Edouard Michelin Auditorium,Chennai,
+17850,Holistic Wellness for Pregnant Women,Conferences,Paid,2017-08-13 14:00:00,2017-08-13 17:30:00,Hotel Savera,Chennai,
+17860,What is UX and how it is impacting everybodys life in India - Free webinar,Conferences,Free,2017-08-13 10:00:00,2017-08-13 11:30:00,Online Webinar,Chennai,
+17871,Tinsel Rangi Presents - Adi and Ashi&apos;s Indian Adventure ,Conferences,Paid,2017-09-16 09:00:00,2017-09-16 00:00:00,Sir Mutha Venkata Subba Rao Concert Hall ,Chennai,
+17954,Paintball at Take Diversion (RELOAD),Entertainment,Free,2017-08-24 11:00:00,2017-12-31 17:00:00,Take Diversion,Chennai,"Sports,paintball,teamsport,re-load,takediversion"
+17958,WCCG Tenacity 110 Kms Ride,Sports,Free,2017-09-17 04:30:00,2017-09-17 12:00:00,Pro-Bikers,Chennai,Sports
+18016,Vedanta Roller Skating Championship,Sports,Paid,2017-11-12 00:00:00,2017-11-12 00:00:00,THE VEDANTA ACADEMY,Chennai,Sports
+18059,Grab the Crab-An Initiative for Breast Cancer Awareness by Vijaya Group of Hospitals,Sports,Free,2017-10-07 04:30:00,2017-10-07 09:00:00,Besant Nagar,Chennai,Sports
+18064,Kalenji 5K and 10K run,Sports,Free,2017-10-08 05:15:00,2017-10-08 08:00:00,Decathlon OMR Padur,Chennai,Sports
+18087,MWC MARATHON 2017,Sports,Paid,2017-11-12 05:30:00,2017-11-12 07:00:00,Mahindra World City,Chennai,Sports
+18093,Airtel Delhi Half Marathon 2017,Sports,Paid,2017-11-19 00:00:00,2017-11-19 00:00:00,Delhi,Delhi,Sports
+18131,World Mental Health Day Ride,Sports,Free,2017-10-01 05:00:00,2017-10-01 10:00:00,Pro-Bikers,Chennai,Sports
+18144,Yogathon (Yoga + Marathon),Sports,Free,2017-11-26 06:00:00,2017-11-26 08:30:00,Elliots Beach,Chennai,Sports
+18158,D2D Running,Sports,Paid,2018-01-07 00:00:00,2018-01-07 00:00:00,Anna University Campus,Chennai,"Sports,3K,5K,10K,21K,half,half marathon,42K,fullmarathon,ultra"
+18163,D2D Running+Cycling,Sports,Paid,2018-01-07 00:00:00,2018-01-07 00:00:00,Anna University Campus,Chennai,Sports
+18171,Alex in Wonderland- A solo stand-up special powered by Music and Tamil,Entertainment,Free,2017-12-16 16:00:00,2017-12-16 00:00:00,Sir Mutha Venkatasubbarao Concert Hall,Chennai,Comedy
+18189,Cine Club : Nocturama,Entertainment,Paid,2017-10-19 19:00:00,2017-10-19 21:15:00,Edouard Michelin Auditorium,Chennai,Movies
+18190,Cine Club : Nocturama,Entertainment,Paid,2017-10-29 19:00:00,2017-10-29 21:15:00,Edouard Michelin Auditorium,Chennai,Movies
+18217,Diwali Fun Fest - Sid Sriram Live in Concert,Entertainment,Paid,2017-10-14 18:00:00,2017-10-15 00:00:00,Sir Mutha Venkatasubba Rao Concert Hall,Chennai,Music and Dance
+18250,RIDE FOR PRIDE WITH MUSTANGS,Sports,Paid,2017-11-26 00:00:00,2017-11-26 00:00:00,Pro-Bikers,Chennai,
+18257,21K-MARINA RUNNERZ MARATHON 2018,Sports,Paid,2018-02-25 00:00:00,2018-02-25 00:00:00,VGP Universal Kingdom,Chennai,"half,half marathon,marathon"
+18258,10K-MARINA RUNNERZ MARATHON 2018,Sports,Free,2018-02-25 00:00:00,2018-02-25 00:00:00,VGP Universal Kingdom,Chennai,"10K,marathon"
+18259,5K-MARINA RUNNERZ MARATHON 2018,Sports,Free,2018-02-25 00:00:00,2018-02-25 00:00:00,VGP Universal Kingdom,Chennai,"5K,marathon"
+18266,Decathlon Sports Utsav Run,Sports,Paid,2017-11-12 06:00:00,2017-11-12 09:00:00,Decathlon OMR Padur,Chennai,
+18300,1KM and 3KM OMR Kidathon 2017,Sports,Paid,2017-11-19 06:15:00,2017-11-19 00:00:00,Dlf Garden City,Chennai,
+18301,5KM and 10KM OMR Kidathon 2017,Sports,Free,2017-11-19 06:00:00,2017-11-19 00:00:00,Dlf Garden City,Chennai,
+18304,Velachery Challengers,Sports,Free,2017-12-24 00:00:00,2017-12-24 00:00:00,Velachery,Chennai,"Sports,skating,kids,challengers"
+18305,Ultra Running Challenge 2017,Sports,Paid,2017-11-15 00:00:00,2017-11-15 00:00:00,TBA,Chennai,
+18330,Special walkathon,Sports,Paid,2017-12-10 00:00:00,2017-12-10 00:00:00,Nehru Stadium,Coimbatore,"1Km,5Km,walkathon"
+18368,10K - JBG Kolkata Trail Run 2018,Sports,Free,2018-01-07 00:00:00,2018-01-07 00:00:00,Godrej Waterside IT Park,Kolkata,"10K,marathon"
+18439,Dream Run 6K Jaipur Marathon,Sports,Paid,2018-02-04 00:00:00,2018-02-04 00:00:00,Albert Hall,Jaipur,"6K,marathon"
+18604,21KM-MEPZ Run,Sports,Paid,2019-03-03 05:00:00,2019-03-03 10:00:00,MEPZ Economical Zone,Chennai,"half,half marathon,marathon"
+18605,10KM-MEPZ Run,Sports,Paid,2018-03-04 05:00:00,2019-03-03 00:00:00,MEPZ Economical Zone,Chennai,"10K,marathon"
+18684,FIONIS presents a 50 days of Fitness Challenge,Sports,Free,2018-02-18 00:00:00,2018-02-18 00:00:00,OMR,Chennai,"fitness,challenge"
+18795,21K - COOL RUNNERS HALF-MARATHON 2018,Sports,Paid,2018-02-04 00:00:00,2018-02-04 00:00:00,YMCA,Chennai,"21k,half,half marathon"
+18796,10K - COOL RUNNERS HALF-MARATHON 2018,Sports,Paid,2018-02-04 00:00:00,2018-02-04 00:00:00,YMCA Ground,Chennai,"10K,10KM"
+18803,Margazhi Utsav,Entertainment,Paid,2017-12-23 00:00:00,2018-01-01 00:00:00,Thoraipakkam,Chennai,"carnatic,music,vocal,instrumental,saxophone,namasankeerthanam,spiritual,comedy,crazy mohan,dance event,bharatanatyam"
+18807,1.5KM(8-13yrs) MIRCHI KIDDATHON COIMBATORE,Sports,Paid,2018-01-21 00:00:00,2018-01-21 00:00:00,"Bishop Appasamy College of Arts & Science, Race Course",Coimbatore,
+18811,FITNESS FEST 2018,Sports,Paid,2018-02-18 06:00:00,2018-02-18 00:00:00,PBEL city,Chennai,
+18818,Alex in Wonderland - A solo stand-up special powered by Music and Tamil,Entertainment,Paid,2018-04-28 16:00:00,2018-04-28 00:00:00,The Music Academy,Chennai,Comedy
+18830,DECATHLON Run Series - JANUARY Healthy Family Run,Sports,Paid,2018-01-07 00:00:00,2018-01-07 00:00:00,Decathlon OMR Padur,Chennai,"chennai,1K,5k,10K,Marathon"
+18832,OMR Trailblazers Anniversary Run 2018,Sports,Paid,2018-01-27 00:00:00,2018-01-27 00:00:00,MGM Beach Resorts,Chennai,"5km,5k,5k run"
+18852,Superchef- Kids Team (of 2),Entertainment,Paid,2018-02-03 00:00:00,2018-02-04 00:00:00,Contest- The Park Hotel,Chennai,Contests
+18928,The German National Youth Orchestra LIVE in CONCERT Western Classical Music,Entertainment,Free,2018-01-25 00:00:00,2018-01-25 00:00:00,The Music Academy,Chennai,
+18935,Mirchi Holi Run,Sports,Paid,2018-03-04 06:00:00,2018-03-04 10:00:00,YMCA,Chennai,"dj party,music and dance,party,kids marathon,fun activities"
+18952,KK Nagar Challengers,Sports,Paid,2018-02-25 16:00:00,2018-02-25 00:00:00,Opposite to KK Nagar Police Station,Chennai,"Sports,skating,kids,challengers"
+18955,Annur Marathon 2018 - 21K and 10K,Sports,Paid,2018-02-25 00:00:00,2018-02-25 00:00:00,Swami Vivekanandha Matriculation Higher Secondary School,Annur,
+18973,ADI AND ASHIS INDIAN ADVENTURE,Entertainment,Paid,2018-02-11 00:00:00,2018-02-11 00:00:00,Sir Mutha Venkatasubba Rao Concert Hall,Chennai,
+19031,Chennai Mara-M-Thon,Sports,Paid,2018-02-18 05:00:00,2018-02-18 09:00:00,Elliots Beach,Chennai,"awareness marathon on  save farming  run,running,marathon"
+19137,Decathlon Championship,Sports,Paid,2018-02-18 16:00:00,2018-02-18 18:00:00,Decathlon POONAMALLEE,Chennai,"Sports,skating,kids,challengers"
+19156,HI FOCUS : NIPLT20 season 2,Sports,Free,2018-02-10 00:00:00,2018-02-21 23:45:00,chennai,Chennai,
+19217,DECATHLON Run Series - Run for Women Who INSPIRE you !,Sports,Paid,2018-03-11 06:00:00,2018-03-11 07:30:00,Decathlon OMR Padur,Chennai,
+19248,TCS World 10K Bengaluru 2018,Sports,Free,2018-05-27 00:00:00,2018-05-27 00:00:00,kk mall,Bengaluru,"popularraces,10k,6k"
+19253,The Mamahood Project,Entertainment,Paid,2018-03-23 09:30:00,2018-03-23 00:00:00,"Park Hyatt, Velachery",Chennai,
+19294,MWC MARATHON 2018,Sports,Paid,2018-10-14 04:00:00,2018-10-14 09:30:00,Mahindra World City,Chennai,"SPORTS,familyrun,MWC,42k,21k,10k,5k,popularraces,1k,runforgirlchild,mwcmarathon,run"
+19339,Mom and Me Or Dad and Me ( 0.7KM ) - Age 2-6 Only,Sports,Paid,2018-05-06 07:00:00,2018-05-06 00:00:00,Jawaharlal Nehru Stadium,Chennai,
+19536,VADODARA INTERNATIONAL MARATHON,Sports,Paid,2019-01-06 00:00:00,2019-01-06 00:00:00,Navlakhi Ground,Vadodara,
+19572,Tamilnadu Cycling Club - ITT1 2018-19,Sports,Paid,2018-05-13 05:45:00,2018-05-13 08:45:00,"Start point: Mayajaal, ECR, Uthandi",Chennai,"SPORTS,chennai cycling,TIMETRIAL"
+19587,Six Fable Cart,Entertainment,Paid,2018-06-09 19:00:00,2018-06-09 21:00:00,Alliance Fran�aise of Madras,Chennai,"play,comedy,Tanglish,Stage,theatre,drama,eventinchennai,english,artist,emotion,Script,Actor,Director,entertainment,fun,rehersals,alliance,Brats,LightandBlind Production,Studio,alliancefrancaise,francis,alliance francis,Chennai Theatre,chennaitheatre,eventjini,events,shows,tamil,tamil nadu,hindi,audience,stand-up,standupcomedy"
+19609,WCCG Mass 100km Ride,Sports,Paid,2018-06-17 05:00:00,2018-06-17 11:00:00,Track and Trail - Showrooms,Chennai,"chennai cycling,bicycling,endurance sports"
+19631,Chennai Kidathon - 400M,Sports,Paid,2018-08-12 16:45:00,2018-08-12 19:45:00,Jawaharlal Nehru Stadium,Chennai,"Sports,funru,400mts"
+19632,Chennai Kidathon - 800M,Sports,Paid,2018-08-12 16:15:00,2018-08-12 19:00:00,Jawaharlal Nehru Stadium,Chennai,Sports
+19635,Chennai Kidathon - 2000M,Sports,Paid,2018-08-12 19:45:00,2018-08-12 20:45:00,Jawaharlal Nehru Stadium,Chennai,Sports
+19656,TCC Roller Coaster ORR Individual Time Trial Powered by Montra,Sports,Paid,2018-06-10 05:30:00,2018-06-10 09:30:00,Chennai Outer Ring Road,Chennai,cycling event
+19704,KAKCHING WORLD WAR II MEMORIAL RUN MANIPUR,Sports,Paid,2018-09-09 06:30:00,2018-09-09 00:00:00,Kakching Aerodrome,Kakching,
+19784,Decathlon Run Series - Fun Run,Sports,Paid,2018-07-15 05:00:00,2018-07-15 08:30:00,Decathlon OMR Padur,Chennai,"sports running,decathlon,fitnessrun,zumba"
+19785,TCC Scenic ECR Twist ITT powered by Montra ,Sports,Paid,2018-07-08 05:30:00,2018-07-08 08:15:00,"Start point: Mayajaal, ECR, Uthandi",Chennai,"sports,chennai cycling,Time Trial"
+19792,VV-Tri-Athlon,Sports,Paid,2018-07-28 14:00:00,2018-07-28 20:00:00,Velachery Aquatic Complex,Chennai,"VVTriathlon,VVTri,triathlon,Sprint,Olympic,swimming,Cycling,Running,VVians,VibrantVelachery,Tri"
+19797,Hydrabad Triathlon report event,Sports,Paid,2018-06-28 00:00:00,2018-06-28 00:00:00,kk mall,Chennai,
+19831,Tamilnadu Cycling Club Criterium Races 2018,Sports,Paid,2018-09-16 00:00:00,2018-09-16 11:00:00,MMSC Race Track,Chennai,
+19849,Alex in Wonderland- A solo stand-up special powered by Music and Tamil,Entertainment,Paid,2018-11-25 18:30:00,2018-11-25 21:00:00,Music academy,Chennai,Comedy
+19878,TATA Mumbai Marathon 2019,Sports,Free,2019-01-20 00:00:00,2019-01-20 00:00:00,Mumbai,Mumbai,popularraces
+19881,TCC Scenic ECR Powered by Montra ( ITT 4),Sports,Paid,2018-08-12 05:30:00,2018-08-12 08:30:00,Mayajaal Multiplex,Chennai,
+19903,Gran Fondo - Chennai,Sports,Paid,2018-08-25 00:00:00,2018-08-25 00:00:00,Bicycle Hub,Chennai,"cycling event,cycle ride,ride for next gen,granfondo,ride for fun,national sports day"
+19907,Madras Kids Run - 2018,Sports,Paid,2018-09-23 08:00:00,2018-09-27 00:00:00,Jawaharlal Nehru Stadium,Chennai,
+19917,TCC Kids Race 2018 powered by Ridley!,Sports,Paid,2018-09-16 09:00:00,2018-09-16 11:30:00,This event will be conducted in the Irungattukottai Madras Motor Race Track(MMRT),Chennai,
+19919,Airtel Delhi Half Marathon 2018,Sports,Free,2018-10-21 00:00:00,2018-10-21 00:00:00,"Jawaharlal Nehru Stadium, Delhi",Delhi,popularraces
+19983,HAPPY FEET 2018,Sports,Paid,2018-09-30 05:30:00,2018-09-30 11:00:00,Madras Christian College Higher Secondary School,Chennai,"marathon run,marathon event,running events in chennai,sports running,running events in chennai,kids running,kids run"
+20032,CHROMA RUN 18,Sports,Paid,2018-09-23 06:00:00,2018-09-23 10:00:00,SRM University,Chennai,"marathon run,marathon event,running events in chennai,runners,sports running,fitnessrun,fitness"
+20073,DAV Alumini Re-union,Conferences,Paid,2018-12-14 00:00:00,2018-12-16 00:00:00,TBD,Chennai,
+20079,FOR 1 TICKET,Sports,Paid,2018-10-13 18:00:00,2018-10-13 21:30:00,VGP Golden Beach Resort,Chennai,"neon,3k run,dj party,fun run,popularraces"
+20123,Pune Half Marathon,Sports,Paid,2018-09-27 00:00:00,2018-12-31 00:00:00,NA,Pune,
+20134,Ride for Pride - Cyclothon 2018,Sports,Paid,2018-10-14 05:00:00,2018-10-14 09:00:00,"D.B. Jain College, Thoraipakkam",Chennai,"cyclothon,chennai,Cause,Nethra,cycle,fundraiser,rideforpride,good cause,chennai cycling"
+20142,DATRI Light up a Life Challenge,Sports,Paid,2018-11-01 00:00:00,2018-11-30 00:00:00,India,Chennai,"fitness,diwali,running,walking,cycling,gift a life"
+20147,Tata Steel Kolkata - 2018,Sports,Free,2018-12-16 00:00:00,2018-12-16 00:00:00,TBD,Kolkata,popularraces
+20209,Gran Fondo - Jammu,Sports,Paid,2018-11-04 06:00:00,2018-11-04 11:00:00,Track and Trail,Jammu,
+20211,"21K,10K,5K - Magnathon",Sports,Paid,2018-12-09 04:30:00,2018-12-09 09:00:00,Olcott School,Chennai,"5k,10k,21k"
+20223,10KM-MEPZ Run,Sports,Paid,2019-03-03 00:00:00,2019-03-03 00:00:00,MEPZ Economical Zone,Chennai,"10K,marathon"
+20514,WCCG Newbie Ride,Sports,Paid,2019-01-01 06:00:00,2019-01-01 08:00:00,Just Buy Cycles across the city,Chennai,"Cycling,newbieride,letsstartcycling"
+20542,Aalam Deepam - Chennai Duathlon 2019,Sports,Paid,2019-02-03 05:00:00,2019-02-03 10:00:00,Olcott Memorial High School,Chennai,"Duathlon,cycling,Running,Fitnes"
+20625,Kids Mini Marathon 2019,Sports,Paid,2019-03-03 07:00:00,2019-03-03 09:00:00,Sports Development Authority of Tamilnadu,Chennai,"kids marathon in nandanam,KIDS FUN RUN,KIDS MINI MARATHON,AADHIEVENTS"
+20628,Chennai Premier Cyclothon,Sports,Paid,2019-02-24 05:00:00,2019-02-24 12:30:00,Kodambakkam,Chennai,"track cycling,cycling event,chennai cycling,long distance cycling,pro cycling"
+20681,HCL Madurai Run 2019,Sports,Free,2019-02-24 05:00:00,2019-02-24 08:00:00,Madurai,Tamil Nadu,
+20798,Stuttgart Chamber Orchestra,Entertainment,Free,2019-03-22 19:00:00,2019-03-22 21:00:00,The Music Academy,Chennai,"orchestra,chamber orchestra,german orchestra,stuttgart chamber orchestra,chennai orchestra,orchestra in chennai,goethe institut,goethe institut chennai,music concert"
+20812,Alex in Wonderland- A solo stand-up special powered by Music and Tamil,Entertainment,Paid,2019-05-05 14:00:00,2019-05-05 21:00:00,Sir Mutha Venkatasubba Rao Concert Hall,Chennai,
+20835,THOR-The Hero of Running,Sports,Paid,1970-01-01 05:30:00,1970-01-01 05:30:00,Jaipur,Jaipur,
+20845,Marathon for Life 2K19,Sports,Paid,2019-05-14 00:00:00,2019-05-15 00:00:00,Pallipalayam,Pallipalayam,"ksrmarathon, marathon for life"
+20872,Chennai Half Marathon 2019,Sports,Paid,2019-05-24 00:00:00,2019-05-25 00:00:00,Chennai,Chennai,#chennaihalfmarathon
+20889,WCCG 200km Night Ride,Sports,Paid,1970-01-01 05:30:00,1970-01-01 05:30:00,Chennai,Chennai,"cycling, Endurance, NightRide"
+20914,PRABALGAD FOOTHILLS MARATHON 2019,Sports,Paid,1970-01-01 05:30:00,1970-01-01 05:30:00,Prabalmachi,Prabalmachi,
+20917,WCCG OutRush ITT 2019 Edition,Sports,Paid,2019-07-03 00:00:00,2019-10-31 00:00:00,Chennai,Chennai,"Cycling, ITT, Racing"
+20921,ICON HAPPY FEET,Sports,Paid,2019-06-22 00:00:00,2019-06-22 00:00:00,Chennai,Chennai,"fitness, marathon, Run"
+20928,Goa River Marathon,Sports,Paid,2019-08-11 00:00:00,2019-08-11 00:00:00,Chicalim,Chicalim,"#beingfit, #goa, #goarivermarathon, #goarunners, #runningmotivation, #runningshoes, fitness, marathon, running"
+20933,Walk With Your Neighbours,Sports,Paid,2019-09-08 00:00:00,2019-09-08 00:00:00,Chennai,Chennai,"Marathons, walk, Walk Marathon, Walkathon"
+20935,Road Captain - For Challenge Accepters,Sports,Paid,2019-06-28 00:00:00,2019-06-29 00:00:00,Chennai,Chennai,
+20940,YOGI RUN @ NANDI HILLS,Sports,Paid,1970-01-01 05:30:00,1970-01-01 05:30:00,Nandi Hills,Nandi Hills,
+20945,Save Earth Marathon 2019,Sports,Paid,2019-07-02 00:00:00,2019-10-31 00:00:00,New Delhi,New Delhi,
+20946,Environment Day Run,Sports,Paid,1970-01-01 05:30:00,1970-01-01 05:30:00,Chennai,Chennai,
+20947,Environment Day Run,Sports,Paid,1970-01-01 05:30:00,1970-01-01 05:30:00,Padur,Padur,"chennai events, Environment Day, June Run, marathon, Runners, running"
+20951,Global Goals Run 2019,Sports,Paid,1970-01-01 05:30:00,1970-01-01 05:30:00,Chennai,Chennai,"AIESEC, marathon, Run, Sunday Run"
+20956,CHENNAI JUNIORTHON 2019,Sports,Paid,2019-07-21 07:00:00,2019-07-21 09:00:00,Chennai,Chennai,"chennai events, CHENNAI RUN, KIDS EVENT, marathon"
+20957,KOLKATA 10K RUN,Sports,Paid,2019-09-15 05:00:00,2019-09-15 08:46:00,Kolkata,Kolkata,"KOLKATA 10K RUN, marathon"
+20958,Kochi Premier Run 2019,Sports,Paid,2019-08-18 06:00:00,2019-08-18 09:00:00,Kochi,Kochi,"kochi 10k run, marathon"
+20962,THE BORDER,Sports,Paid,1970-01-01 05:30:00,1970-01-01 05:30:00,Jaisalmer,Jaisalmer,
+20963,Green Walk,Sports,Paid,2019-07-16 00:00:00,2019-07-17 00:00:00,chennai,chennai,"Green Walk, walk, Walkathon, walking events in chennai, walking Marathon"
+20965,Run for Peace 2019,Sports,Paid,2019-07-20 00:00:00,2019-07-21 00:00:00,Chennai,Chennai,"marathon, Run, Runners"
+20980,Chennai Kidathon 2019,Sports,Paid,1970-01-01 05:30:00,1970-01-01 05:30:00,Chennai,Chennai,
+20992,Jaipur Glow Run,Sports,Paid,1970-01-01 05:30:00,1970-01-01 05:30:00,Jaipur,Jaipur,
+21002,Freedom Run - Kolkata,Sports,Paid,1970-01-01 05:30:00,1970-01-01 05:30:00,Kolkata,Kolkata,
+21009,Run for Wheels Marathon (Second Edition),Sports,Paid,2019-07-21 05:00:00,2019-07-21 08:00:00,Coimbatore,Coimbatore,"#10km, #5km, #Basketball, #Coimbatore, #Wheelchair, marathon, Run"
+21019,DATRI Cycle to Gift a Life,Sports,Paid,1970-01-01 05:30:00,1970-01-01 05:30:00,Chennai,Chennai,
+21022,Run Against Corruption 2019,Sports,Paid,1970-01-01 05:30:00,1970-01-01 05:30:00,Chennai,Chennai,"CHENNAI 10K RUN, chennai marathon, marathon, running events in chennai, walking events in chennai"
+21035,Sunshine Walk,Sports,Paid,1970-01-01 05:30:00,1970-01-01 05:30:00,Padur,Padur,"walk, Walkathon, walking events in chennai, walking Marathon"
+21048,CHENNAI DUATHLON 2019,Sports,Paid,1970-01-01 05:30:00,1970-01-01 05:30:00,Chennai,Chennai,
+21061,Covelong,Sports,Paid,2019-08-23 00:00:00,2019-08-25 00:00:00,Chennai,Chennai,
+21067,Independence Day Run,Sports,Paid,2019-08-18 05:00:00,2019-08-18 08:30:00,Padur,Padur,"marathons, Marathons, runs, Independence Day, Ezone, Decathlon"
+21068,The Monster Cycling,Sports,Paid,2019-08-25 05:00:00,2019-08-25 09:00:00,Chennai,Chennai,
+21069,test event for jini write back,Sports,Paid,2019-07-18 17:50:00,2019-07-19 05:50:00,Chennai,Chennai,
+21072,Kauvery Hospital Salem Marathon,Sports,Paid,2019-09-29 05:00:00,2019-09-29 09:00:00,Salem,Salem,"#10km, 10k run, 10km run, Fun run, marathon, Marathons, Run, running"
+21076,TATA Mumbai Marathon 2020,Sports,Paid,2020-01-19 06:31:00,2020-01-19 17:31:00,Mumbai,Mumbai,
+21081,WCCG Newbie Ride 2019,Sports,Paid,2019-08-11 06:00:00,2019-08-11 08:00:00,Chennai,Chennai,"#cycling #newbieride, WCCG"
+21089,TCS World 10K Bengaluru 2019,Sports,Paid,2019-05-19 00:00:00,2019-05-19 00:00:00,Bangalore,Bangalore,
+21118,7th Edition HSR 10K Freedom Run,Sports,Paid,2019-08-15 06:00:00,2019-08-15 09:00:00,Bengaluru,Bengaluru,"10k run, 5K Run, marathon, running, Timed Run"
+21121,Airtel Delhi Half Marathon 2019,Sports,Paid,2019-10-20 04:00:00,2019-10-20 10:00:00,Delhi,Delhi,
+21230,Bhumi India Run Chennai 2019,Sports,Paid,2019-04-07 05:00:00,2019-04-07 09:00:00,Chennai,Chennai,NULL
+21233,Coast Rush ITT - 2019 Edition,Sports,Paid,2019-03-17 05:40:00,2019-03-17 08:00:00,Chennai,Chennai,NULL
+21261,Chennai Kids Dream Run 2019,Sports,Paid,2019-04-28 07:00:00,2019-04-28 07:00:00,Chennai,Chennai,NULL
+21262,Vadodara International Marathon 2020,Sports,Paid,2020-01-05 04:00:00,2020-01-05 10:00:00,Vadodara,Vadodara,NULL
+21267,CHENNAI WORLD 10K RUN,Sports,Paid,2019-04-28 06:00:00,2019-04-28 09:00:00,Chennai,Chennai,NULL
+21287,MOMMATHON 2019 - Version 3.0 - RUN TO HONOUR MOTHERHOOD,Sports,Paid,2019-05-12 06:00:00,2019-05-12 09:00:00,Chennai,Chennai,NULL
+21289,CORPORATE MARATHON 2019,Sports,Paid,2019-04-28 06:00:00,2019-04-28 09:00:00,Chennai,Chennai,NULL
+21291,Cyclothon - For Road Safety,Sports,Paid,2019-04-28 05:00:00,2019-04-28 09:00:00,Chennai,Chennai,NULL
